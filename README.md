@@ -1,2 +1,2 @@
 # CrimeRateVisualisation
-Information Visualisation Project: World Crima Rate.
+Information Visualisation Project: World Crime Rate.
