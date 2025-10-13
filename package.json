@@ -1,0 +1,28 @@
+{
+  "name": "crimeratevisualisation",
+  "version": "1.0.0",
+  "description": "Information Visualisation Project: World Crime Rate.",
+  "keywords": [],
+  "homepage": "https://github.com/laurinecd/CrimeRateVisualisation#readme",
+  "bugs": {
+    "url": "https://github.com/laurinecd/CrimeRateVisualisation/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurinecd/CrimeRateVisualisation.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server public"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "dependencies": {
+    "d3": "^7.9.0"
+  }
+}

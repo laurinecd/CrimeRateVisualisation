@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Carte mondiale - Taux de criminalité</title>
+    <link rel="stylesheet" href="src/css/map.css" />
+  </head>
+  <body>
+    <header class="page-header">
+      <nav>
+        <button class="menu-btn" aria-label="menu"><img src="src/img/menu.svg" alt="icone de menu"></button>
+        <div class="map-controls">
+          <a href="map.html" class="active"><img src="src/img/map.svg" alt="icone de map"></a>
+          <hr>
+          <a href="#"><img src="src/img/graph.svg" alt="icone de nuage de points"></a>
+          <hr>
+          <a href="#"><img src="src/img/plot.svg" alt="icone de radar"></a>
+          <hr>
+          <a href="#"><img src="src/img/graph-filled.svg" alt="icone de graph"></a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="page-main">
+      <div id="map"></div>
+      <div id="tooltip" class="tooltip"></div>
+    </main>
+
+    <script src="lib/d3.v5.min.js"></script>
+    <script src="src/js/map.js"></script>
+  </body>
+</html>
