@@ -9,9 +9,11 @@
   <body>
     <header class="page-header">
       <nav>
-        <button class="menu-btn" aria-label="menu"><img src="src/img/menu.svg" alt="icone de menu"></button>
+        <button id="menu-btn" class="menu-btn" aria-label="menu">
+          <img src="src/img/menu.svg" alt="icone de menu">
+        </button>
         <div class="map-controls">
-          <a href="map.html" class="active"><img src="src/img/map.svg" alt="icone de map"></a>
+          <a href="index.html" class="active"><img src="src/img/map.svg" alt="icone de map"></a>
           <hr>
           <a href="#"><img src="src/img/graph.svg" alt="icone de nuage de points"></a>
           <hr>
@@ -22,9 +24,20 @@
       </nav>
     </header>
 
+    <!-- 🧩 Panneau latéral (popup filtres) -->
+    <aside id="filter-panel" class="filter-panel hidden">
+      <h2>Filtres</h2>
+      <label><input type="radio" name="crime" value="average" checked> Moyenne</label>
+      <label><input type="radio" name="crime" value="sexual"> Crimes sexuels</label>
+      <label><input type="radio" name="crime" value="corruption"> Corruption</label>
+      <label><input type="radio" name="crime" value="homicide"> Homicides</label>
+    </aside>
+
     <main class="page-main">
-      <div id="map"></div>
-      <div id="tooltip" class="tooltip"></div>
+      <section>
+        <div id="map"></div>
+        <div id="tooltip" class="tooltip"></div>
+      </section>
     </main>
 
     <script src="lib/d3.v5.min.js"></script>
