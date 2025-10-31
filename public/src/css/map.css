@@ -125,6 +125,20 @@ nav {
   pointer-events: none;
 }
 
+.legend-body {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.legend-collapsed {
+  padding-bottom: 12px;
+}
+
+.legend-collapsed .legend-body {
+  display: none;
+}
+
 .legend-header {
   display: flex;
   justify-content: space-between;

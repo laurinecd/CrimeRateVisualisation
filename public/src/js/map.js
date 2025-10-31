@@ -275,6 +275,7 @@ const legendMin = d3.select('#legend-min');
 const legendMax = d3.select('#legend-max');
 const legendCaption = d3.select('#legend-caption');
 const legendToggleBtn = d3.select('#legend-toggle');
+const legendBody = d3.select('#legend-body');
 
 let projection = d3.geoNaturalEarth1();
 let path = d3.geoPath().projection(projection);
@@ -1318,7 +1319,9 @@ function updateLegend(indicator) {
   const values = Array.from(indicatorMap.values()).filter(Number.isFinite);
 
   if (!values.length || !indicator) {
-    legend.classed('legend-hidden', true).attr('aria-hidden', 'true');
+    legend.classed('legend-hidden', true)
+      .attr('aria-hidden', 'true')
+      .attr('aria-expanded', 'false');
     return;
   }
 
@@ -1343,7 +1346,13 @@ function updateLegend(indicator) {
   }
   legendCaption.text(caption);
 
-  legend.classed('legend-hidden', false).attr('aria-hidden', 'false');
+  const collapsed = legend.classed('legend-collapsed');
+  legend.classed('legend-hidden', false)
+    .attr('aria-hidden', 'false')
+    .attr('aria-expanded', String(!collapsed));
+  legendToggleBtn
+    .text(collapsed ? '+' : '-')
+    .attr('aria-label', collapsed ? 'Afficher la legende' : 'Replier la legende');
 }
 
 function initLegendToggle() {
@@ -1351,8 +1360,12 @@ function initLegendToggle() {
     return;
   }
   legendToggleBtn.on('click', () => {
-    const isHidden = legend.classed('legend-hidden');
-    legend.classed('legend-hidden', !isHidden).attr('aria-hidden', String(!isHidden));
-    legendToggleBtn.text(isHidden ? '−' : '+');
+    const collapsed = legend.classed('legend-collapsed');
+    const nextState = !collapsed;
+    legend.classed('legend-collapsed', nextState)
+      .attr('aria-expanded', String(!nextState));
+    legendToggleBtn
+      .text(nextState ? '+' : '-')
+      .attr('aria-label', nextState ? 'Afficher la legende' : 'Replier la legende');
   });
 }
