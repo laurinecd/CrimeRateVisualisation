@@ -1,18 +1,19 @@
 const DATA_FILES = [
-  { key: 'world', path: 'data_treatment/data/world_map.geojson' },
-  { key: 'sexual', path: 'data_treatment/data/sexual.json' },
-  { key: 'corruption', path: 'data_treatment/data/corruption.json' },
-  { key: 'homicide', path: 'data_treatment/data/homicide.json' },
-  { key: 'births_per_woman', path: 'data_treatment/global-data/birth-per-women.json' },
-  { key: 'death_rate', path: 'data_treatment/global-data/death-rate.json' },
-  { key: 'employment_adults', path: 'data_treatment/global-data/employment-adults-rate.json' },
-  { key: 'unemployment_male', path: 'data_treatment/global-data/unemployment-male.json' },
-  { key: 'expense_gdp', path: 'data_treatment/global-data/expense-%25- gdp.json' },
-  { key: 'literacy_adults', path: 'data_treatment/global-data/literacy-adults-rate.json' },
-  { key: 'political_stability', path: 'data_treatment/global-data/political-stability-terrorism-violence.json' },
-  { key: 'poverty_gap', path: 'data_treatment/global-data/poverty-gap.json' },
-  { key: 'tourism_arrivals', path: 'data_treatment/global-data/tourism-arrivals.json' },
-  { key: 'gdp_per_capita', path: 'data_treatment/global-data/gdp-per-capita-usd.json' }
+  { key: 'world', path: 'data_treatment/data/world_map.geojson', loader: 'json' },
+  { key: 'population', path: 'data_treatment/data/countries.csv', loader: 'csv' },
+  { key: 'sexual', path: 'data_treatment/data/sexual.json', loader: 'json' },
+  { key: 'corruption', path: 'data_treatment/data/corruption.json', loader: 'json' },
+  { key: 'homicide', path: 'data_treatment/data/homicide.json', loader: 'json' },
+  { key: 'births_per_woman', path: 'data_treatment/global-data/birth-per-women.json', loader: 'json' },
+  { key: 'death_rate', path: 'data_treatment/global-data/death-rate.json', loader: 'json' },
+  { key: 'employment_adults', path: 'data_treatment/global-data/employment-adults-rate.json', loader: 'json' },
+  { key: 'unemployment_male', path: 'data_treatment/global-data/unemployment-male.json', loader: 'json' },
+  { key: 'expense_gdp', path: 'data_treatment/global-data/expense-%25- gdp.json', loader: 'json' },
+  { key: 'literacy_adults', path: 'data_treatment/global-data/literacy-adults-rate.json', loader: 'json' },
+  { key: 'political_stability', path: 'data_treatment/global-data/political-stability-terrorism-violence.json', loader: 'json' },
+  { key: 'poverty_gap', path: 'data_treatment/global-data/poverty-gap.json', loader: 'json' },
+  { key: 'tourism_arrivals', path: 'data_treatment/global-data/tourism-arrivals.json', loader: 'json' },
+  { key: 'gdp_per_capita', path: 'data_treatment/global-data/gdp-per-capita-usd.json', loader: 'json' }
 ];
 
 const INDICATOR_GROUPS = [
@@ -30,44 +31,48 @@ const INDICATORS = [
     label: 'Criminalite moyenne',
     group: 'crime',
     datasetKeys: ['sexual', 'corruption', 'homicide'],
-    description: 'Moyenne   crimes sexuels,   corruption et   homicides declares.',
-    digits: 0
+    description: 'Moyenne des crimes sexuels, de corruption et des homicides declares.',
+    digits: 2,
+    unit: 'pour 100 000 hab.'
   },
   {
     id: 'sexual',
     label: 'Crimes sexuels',
     group: 'crime',
     datasetKeys: ['sexual'],
-    description: 'Nombre   crimes sexuels signalés (toutes annees).',
-    digits: 0
+    description: 'Nombre de crimes sexuels signales (toutes annees).',
+    digits: 2,
+    unit: 'pour 100 000 hab.'
   },
   {
     id: 'corruption',
     label: 'Corruption',
     group: 'crime',
     datasetKeys: ['corruption'],
-    description: 'Infractions liees a   corruption.',
-    digits: 0
+    description: 'Infractions liees a la corruption.',
+    digits: 2,
+    unit: 'pour 100 000 hab.'
   },
   {
     id: 'homicide',
     label: 'Homicides',
     group: 'crime',
     datasetKeys: ['homicide'],
-    description: 'Nombre d’homicides enregistres.',
-    digits: 0
+    description: 'Nombre d\'homicides enregistres.',
+    digits: 2,
+    unit: 'pour 100 000 hab.'
   },
   {
     id: 'births_per_woman',
     label: 'Naissances par femme',
     group: 'demography',
     datasetKeys: ['births_per_woman'],
-    description: 'Nombre moyen d’enfants par femme.',
+    description: 'Nombre moyen d\'enfants par femme.',
     digits: 2
   },
   {
     id: 'death_rate',
-    label: 'Taux   mortalite',
+    label: 'Taux de mortalite',
     group: 'demography',
     datasetKeys: ['death_rate'],
     description: 'Deces pour 1 000 habitants.',
@@ -75,10 +80,10 @@ const INDICATORS = [
   },
   {
     id: 'employment_adults',
-    label: 'Taux d’emploi (adultes)',
+    label: 'Taux d\'emploi (adultes)',
     group: 'economy',
     datasetKeys: ['employment_adults'],
-    description: 'Part   adultes disposant d’un emploi.',
+    description: 'Part des adultes disposant d\'un emploi.',
     digits: 1,
     unit: '%'
   },
@@ -87,7 +92,7 @@ const INDICATORS = [
     label: 'Chomage (hommes)',
     group: 'economy',
     datasetKeys: ['unemployment_male'],
-    description: 'Pourcentage d’hommes au chomage.',
+    description: 'Pourcentage d\'hommes au chomage.',
     digits: 1,
     unit: '%'
   },
@@ -96,16 +101,16 @@ const INDICATORS = [
     label: 'Depenses publiques (% PIB)',
     group: 'economy',
     datasetKeys: ['expense_gdp'],
-    description: 'Depenses publiques en %   PIB.',
+    description: 'Depenses publiques en pourcentage du PIB.',
     digits: 1,
     unit: '%'
   },
   {
     id: 'poverty_gap',
-    label: 'Profondeur     pauvrete',
+    label: 'Profondeur de la pauvrete',
     group: 'economy',
     datasetKeys: ['poverty_gap'],
-    description: 'Distance moyenne par rapport au seuil   pauvrete.',
+    description: 'Distance moyenne par rapport au seuil de pauvrete.',
     digits: 1,
     unit: '%'
   },
@@ -123,7 +128,7 @@ const INDICATORS = [
     label: 'Alphabetisation adultes',
     group: 'society',
     datasetKeys: ['literacy_adults'],
-    description: 'Part   adultes sachant lire et ecrire.',
+    description: 'Part des adultes sachant lire et ecrire.',
     digits: 1,
     unit: '%'
   },
@@ -132,7 +137,7 @@ const INDICATORS = [
     label: 'Stabilite politique',
     group: 'governance',
     datasetKeys: ['political_stability'],
-    description: 'Indice   stabilite politique et absence   violence.',
+    description: 'Indice de stabilite politique et absence de violence.',
     digits: 2
   },
   {
@@ -140,8 +145,9 @@ const INDICATORS = [
     label: 'Arrivees touristiques',
     group: 'mobility',
     datasetKeys: ['tourism_arrivals'],
-    description: 'Nombre moyen d’arrivees internationales.',
-    digits: 0
+    description: 'Nombre moyen d\'arrivees internationales.',
+    digits: 2,
+    unit: 'pour 1 000 hab.'
   }
 ];
 
@@ -160,49 +166,78 @@ const WORD_REPLACEMENTS = new Map([
 ]);
 
 const RAW_NAME_ALIASES = [
-  ['Bahamas,  ', 'Bahamas'],
-  ['Bolivia (Plurinational State  )', 'Bolivia'],
+  ['Bahamas, The', 'Bahamas'],
+  ['Bolivia (Plurinational State of)', 'Bolivia'],
   ['Cape Verde', 'Cabo Verde'],
-  ['Congo, Dem. Rep.', 'Democratic Republic     Congo'],
-  ['Democratic Republic   Congo', 'Democratic Republic     Congo'],
-  ['Congo (Kinshasa)', 'Democratic Republic     Congo'],
-  ['Congo, Rep.', 'Republic     Congo'],
-  ['Congo (Brazzaville)', 'Republic     Congo'],
+  ['Congo, Dem. Rep.', 'Democratic Republic of the Congo'],
+  ['Democratic Republic of Congo', 'Democratic Republic of the Congo'],
+  ['Congo (Kinshasa)', 'Democratic Republic of the Congo'],
+  ['Congo, Rep.', 'Republic of the Congo'],
+  ['Congo (Brazzaville)', 'Republic of the Congo'],
   ['Czech Republic', 'Czechia'],
   ['Ivory Coast', 'Cote d Ivoire'],
   ['Cote d\'Ivoire', 'Cote d Ivoire'],
-  ['Korea, Republic  ', 'South Korea'],
-  ['Republic   Korea', 'South Korea'],
+  ['Korea, Republic of', 'South Korea'],
+  ['Republic of Korea', 'South Korea'],
   ['Korea, Dem. People\'s Rep.', 'North Korea'],
-  ['Korea, Democratic People\'s Republic  ', 'North Korea'],
+  ['Korea, Democratic People\'s Republic of', 'North Korea'],
   ['Lao PDR', 'Laos'],
   ['Lao People\'s Democratic Republic', 'Laos'],
   ['Hong Kong SAR, China', 'Hong Kong'],
   ['Macao SAR, China', 'Macao'],
   ['Macau', 'Macao'],
-  ['Micronesia, Fed. Sts.', 'Micronesia'],
-  ['Moldova, Republic  ', 'Moldova'],
+  ['Micronesia, Fed. Sts.', 'Federated States of Micronesia'],
+  ['Moldova, Republic of', 'Moldova'],
   ['Iran, Islamic Rep.', 'Iran'],
   ['Syrian Arab Republic', 'Syria'],
-  ['Tanzania, United Republic  ', 'Tanzania'],
-  ['United States', 'United States   America'],
-  ['USA', 'United States   America'],
-  ['U.S.A.', 'United States   America'],
-  ['United Kingdom   Great Britain   Northern Ireland', 'United Kingdom'],
+  ['Tanzania, United Republic of', 'Tanzania'],
+  ['United States', 'United States of America'],
+  ['USA', 'United States of America'],
+  ['U.S.A.', 'United States of America'],
+  ['United Kingdom of Great Britain and Northern Ireland', 'United Kingdom'],
   ['Venezuela, RB', 'Venezuela'],
-  ['Venezuela (Bolivarian Republic  )', 'Venezuela'],
+  ['Venezuela (Bolivarian Republic of)', 'Venezuela'],
   ['Viet Nam', 'Vietnam'],
   ['Yemen, Rep.', 'Yemen'],
   ['Timor-Leste', 'East Timor'],
-  ['Gambia,  ', 'Gambia'],
-  ['West Bank   Gaza', 'Palestine'],
+  ['Gambia, The', 'Gambia'],
+  ['West Bank and Gaza', 'Palestine'],
   ['Kyrgyz Republic', 'Kyrgyzstan'],
   ['Slovak Republic', 'Slovakia'],
   ['Brunei Darussalam', 'Brunei'],
   ['Egypt, Arab Rep.', 'Egypt'],
   ['Russian Federation', 'Russia'],
   ['Gambia', 'Gambia'],
-  ['UAE', 'United Arab Emirates']
+  ['UAE', 'United Arab Emirates'],
+  ['Turkiye', 'Turkey'],
+  ['China Hong Kong Special Administrative Region', 'Hong Kong'],
+  ['Saint Vincent Grenadines', 'Saint Vincent and the Grenadines'],
+  ['St. Vincent and the Grenadines', 'Saint Vincent and the Grenadines'],
+  ['Sao Tome Principe', 'Sao Tome and Principe'],
+  ['Micronesia Federal States', 'Federated States of Micronesia'],
+  ['State Palestine', 'Palestine'],
+  ['Macao SAR China', 'Macao'],
+  ['Cabo Verde', 'Cabo Verde'],
+  ['Curacao', 'Curacao'],
+  ['Antigua Barbuda', 'Antigua and Barbuda'],
+  ['American Samoa', 'American Samoa'],
+  ['Bahrain', 'Bahrain'],
+  ['Comoros', 'Comoros'],
+  ['Kiribati', 'Kiribati'],
+  ['Marshall Islands', 'Marshall Islands'],
+  ['Maldives', 'Maldives'],
+  ['Mauritius', 'Mauritius'],
+  ['Malta', 'Malta'],
+  ['Andorra', 'Andorra'],
+  ['Liechtenstein', 'Liechtenstein'],
+  ['Aruba', 'Aruba'],
+  ['Bermuda', 'Bermuda'],
+  ['Grenada', 'Grenada'],
+  ['Saint Lucia', 'Saint Lucia'],
+  ['British Virgin Islands', 'British Virgin Islands'],
+  ['Cayman Islands', 'Cayman Islands'],
+  ['Guam', 'Guam'],
+  ['Channel Islands', 'Channel Islands']
 ];
 
 const NAME_ALIASES = new Map(
@@ -210,6 +245,12 @@ const NAME_ALIASES = new Map(
     .map(([alias, target]) => [normalizeName(alias), target])
     .filter(([alias]) => Boolean(alias))
 );
+
+const DATASET_CONFIG = {
+  sexual: { normalization: 'perPopulation', per: 100000 },
+  corruption: { normalization: 'perPopulation', per: 100000 },
+  tourism_arrivals: { normalization: 'perPopulation', per: 1000 }
+};
 
 const indicatorIndex = new Map();
 INDICATORS.forEach(ind => indicatorIndex.set(ind.id, ind));
@@ -227,6 +268,13 @@ const popup = container.append('div')
   .attr('class', 'country-popup')
   .style('visibility', 'hidden')
   .attr('aria-hidden', 'true');
+
+const legend = d3.select('#legend');
+const legendTitle = d3.select('#legend-title');
+const legendMin = d3.select('#legend-min');
+const legendMax = d3.select('#legend-max');
+const legendCaption = d3.select('#legend-caption');
+const legendToggleBtn = d3.select('#legend-toggle');
 
 let projection = d3.geoNaturalEarth1();
 let path = d3.geoPath().projection(projection);
@@ -246,8 +294,19 @@ let countryProfiles = new Map();
 let colorScale = null;
 let activePopup = null;
 let activeIndicatorId = DEFAULT_INDICATOR_ID;
+let populationByCountry = new Map();
+let worldPopulationEstimates = new Map();
+const warnedCountries = new Set();
+let currentColorDomain = { min: 0, max: 1, rawMin: 0, rawMax: 1, truncated: false };
 
-Promise.all(DATA_FILES.map(file => d3.json(file.path)))
+const dataPromises = DATA_FILES.map(file => {
+  if (file.loader === 'csv') {
+    return d3.csv(file.path);
+  }
+  return d3.json(file.path);
+});
+
+Promise.all(dataPromises)
   .then(responses => {
     responses.forEach((data, index) => {
       rawDatasets[DATA_FILES[index].key] = data;
@@ -255,6 +314,7 @@ Promise.all(DATA_FILES.map(file => d3.json(file.path)))
 
     worldData = rawDatasets.world;
     prepareWorldData();
+    preparePopulationData(rawDatasets.population);
     prepareDatasets();
     prepareIndicatorStore();
     drawMap();
@@ -262,6 +322,7 @@ Promise.all(DATA_FILES.map(file => d3.json(file.path)))
     window.addEventListener('resize', resize);
     initMenu();
     initPopupCloser();
+    initLegendToggle();
   })
   .catch(err => console.error('Erreur chargement donnees:', err));
 
@@ -283,10 +344,10 @@ function prepareWorldData() {
 function prepareDatasets() {
   datasetAverages = {};
   Object.keys(rawDatasets).forEach(key => {
-    if (key === 'world') {
+    if (key === 'world' || key === 'population') {
       return;
     }
-    datasetAverages[key] = aggregateDataset(rawDatasets[key]);
+    datasetAverages[key] = aggregateDataset(rawDatasets[key], key);
   });
 }
 
@@ -790,22 +851,33 @@ function updateColorScale() {
   const indicatorMap = indicatorValueMaps.get(activeIndicatorId) || new Map();
   const values = Array.from(indicatorMap.values()).filter(Number.isFinite);
 
-  let min = 0;
-  let max = 1;
-
   if (values.length) {
-    min = d3.min(values);
-    max = d3.max(values);
-    if (min === max) {
-      const delta = Math.abs(min) || 1;
-      min -= delta * 0.1;
-      max += delta * 0.1;
+    const sorted = values.slice().sort(d3.ascending);
+    const rawMin = sorted[0];
+    const rawMax = sorted[sorted.length - 1];
+    const lower = d3.quantile(sorted, 0.05) ?? rawMin;
+    const upper = d3.quantile(sorted, 0.95) ?? rawMax;
+    let domainMin = Math.min(0, lower);
+    let domainMax = upper;
+    if (domainMax <= domainMin) {
+      const delta = Math.abs(domainMin) || 1;
+      domainMin -= delta * 0.1;
+      domainMax += delta * 0.1;
     }
+    currentColorDomain = {
+      min: domainMin,
+      max: domainMax,
+      rawMin,
+      rawMax,
+      truncated: domainMax < rawMax - 1e-9 || domainMin > rawMin + 1e-9
+    };
+  } else {
+    currentColorDomain = { min: 0, max: 1, rawMin: 0, rawMax: 1, truncated: false };
   }
 
   const interpolator = d3.interpolateRgb('#fff5f0', '#7a0210');
   colorScale = d3.scaleSequential(interpolator)
-    .domain([min, max])
+    .domain([currentColorDomain.min, currentColorDomain.max])
     .clamp(true);
 }
 
@@ -819,6 +891,8 @@ function updateMapColors() {
     .transition()
     .duration(300)
     .attr('fill', getCountryFill);
+
+  updateLegend(indicatorIndex.get(activeIndicatorId));
 }
 
 function getCountryFill(feature) {
@@ -852,7 +926,7 @@ function getCountryProfile(feature) {
   return ensureProfile(normalized, feature.properties.name, feature.properties.continent);
 }
 
-function aggregateDataset(dataset) {
+function aggregateDataset(dataset, datasetKey) {
   const grouped = new Map();
   const unmatched = new Set();
 
@@ -869,7 +943,7 @@ function aggregateDataset(dataset) {
       return;
     }
 
-    const value = Number(entry.Value);
+    const value = parseNumber(entry.Value);
     if (!Number.isFinite(value)) {
       return;
     }
@@ -885,11 +959,15 @@ function aggregateDataset(dataset) {
     if (!bucket.count) {
       return;
     }
-    averages.set(key, bucket.total / bucket.count);
+    const average = bucket.total / bucket.count;
+    const normalizedValue = applyDatasetNormalization(average, key, datasetKey);
+    if (Number.isFinite(normalizedValue)) {
+      averages.set(key, normalizedValue);
+    }
   });
 
   if (unmatched.size) {
-    console.warn('Pays non apparies ignorés:', Array.from(unmatched).slice(0, 10));
+    console.warn(`[${datasetKey}] Pays non apparies ignores:`, Array.from(unmatched).slice(0, 10));
   }
 
   return averages;
@@ -919,10 +997,42 @@ function buildCountryLookup(features) {
     registerNameVariant(canonicalKey, canonicalKey);
     const variants = collectNameVariants(props);
     variants.forEach(variant => registerNameVariant(variant, canonicalKey));
+
+    const populationEstimate = parseNumber(props.pop_est);
+    if (Number.isFinite(populationEstimate) && populationEstimate > 0) {
+      worldPopulationEstimates.set(canonicalKey, populationEstimate);
+    }
   });
 
   NAME_ALIASES.forEach((target, alias) => {
     registerAlias(alias, target);
+  });
+}
+
+function preparePopulationData(rows) {
+  populationByCountry = new Map();
+  if (!Array.isArray(rows)) {
+    return;
+  }
+
+  rows.forEach(row => {
+    const name = row && row.Country ? String(row.Country).trim() : '';
+    if (!name) {
+      return;
+    }
+    const normalized = normalizeName(name);
+    const canonicalKey = resolveCountryKey(normalized);
+    if (!canonicalKey) {
+      return;
+    }
+
+    const populationValue = parseNumber(row.Population);
+    if (!Number.isFinite(populationValue) || populationValue <= 0) {
+      return;
+    }
+
+    populationByCountry.set(canonicalKey, populationValue);
+    registerNameVariant(normalized, canonicalKey);
   });
 }
 
@@ -1134,4 +1244,115 @@ function formatValue(value, indicator) {
   const formatter = d3.format(`,.${digits}f`);
   const suffix = indicator && indicator.unit ? ` ${indicator.unit}` : '';
   return `${formatter(value)}${suffix}`;
+}
+
+function applyDatasetNormalization(value, canonicalKey, datasetKey) {
+  const config = DATASET_CONFIG[datasetKey];
+  if (!config) {
+    return value;
+  }
+
+  if (config.normalization === 'perPopulation') {
+    const population = getPopulationForCountry(canonicalKey);
+    if (!Number.isFinite(population) || population <= 0) {
+      warnMissingPopulation(canonicalKey);
+      return null;
+    }
+    const factor = Number.isFinite(config.per) ? config.per : 1;
+    return (value / population) * factor;
+  }
+
+  return value;
+}
+
+function getPopulationForCountry(canonicalKey) {
+  if (!canonicalKey) {
+    return null;
+  }
+  if (populationByCountry.has(canonicalKey)) {
+    return populationByCountry.get(canonicalKey);
+  }
+  if (worldPopulationEstimates.has(canonicalKey)) {
+    return worldPopulationEstimates.get(canonicalKey);
+  }
+  return null;
+}
+
+function warnMissingPopulation(canonicalKey) {
+  if (!canonicalKey || warnedCountries.has(canonicalKey)) {
+    return;
+  }
+  warnedCountries.add(canonicalKey);
+  const country = countryLookup.get(canonicalKey);
+  const name = country ? country.name : canonicalKey;
+  console.warn(`Population inconnue pour ${name}, impossible de normaliser.`);
+}
+
+function parseNumber(value) {
+  if (value === null || value === undefined) {
+    return NaN;
+  }
+  if (typeof value === 'number') {
+    return value;
+  }
+  let str = String(value)
+    .replace(/\u00A0/g, ' ')
+    .trim();
+  if (!str) {
+    return NaN;
+  }
+  str = str.replace(/\s+/g, '');
+  str = str.replace(/,/g, '.');
+  str = str.replace(/[^0-9.\-eE]/g, '');
+  if (!str) {
+    return NaN;
+  }
+  return Number(str);
+}
+
+function updateLegend(indicator) {
+  if (!legend || legend.empty()) {
+    return;
+  }
+  const indicatorMap = indicatorValueMaps.get(activeIndicatorId) || new Map();
+  const values = Array.from(indicatorMap.values()).filter(Number.isFinite);
+
+  if (!values.length || !indicator) {
+    legend.classed('legend-hidden', true).attr('aria-hidden', 'true');
+    return;
+  }
+
+  const domainMin = currentColorDomain.min;
+  const domainMax = currentColorDomain.max;
+  const formatter = typeof indicator.digits === 'number'
+    ? d3.format(`,.${indicator.digits}f`)
+    : d3.format(',.2f');
+
+  legendTitle.text(indicator.label);
+  legendMin.text(formatter(domainMin));
+  legendMax.text(formatter(domainMax));
+
+  let caption = 'Plus clair = valeurs faibles, plus fonce = valeurs elevees.';
+  if (indicator.unit) {
+    caption += ` Unite: ${indicator.unit}.`;
+  } else if (indicator.description) {
+    caption += ` ${indicator.description}`;
+  }
+  if (currentColorDomain.truncated) {
+    caption += ' Palette centree sur le 5e-95e percentile pour limiter les valeurs extremes.';
+  }
+  legendCaption.text(caption);
+
+  legend.classed('legend-hidden', false).attr('aria-hidden', 'false');
+}
+
+function initLegendToggle() {
+  if (!legendToggleBtn || legendToggleBtn.empty()) {
+    return;
+  }
+  legendToggleBtn.on('click', () => {
+    const isHidden = legend.classed('legend-hidden');
+    legend.classed('legend-hidden', !isHidden).attr('aria-hidden', String(!isHidden));
+    legendToggleBtn.text(isHidden ? '−' : '+');
+  });
 }

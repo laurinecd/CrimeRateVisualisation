@@ -35,6 +35,18 @@
     <main class="page-main">
       <section>
         <div id="map"></div>
+        <div id="legend" class="legend legend-hidden" aria-hidden="true">
+          <div class="legend-header">
+            <span id="legend-title">Intensite de l'indicateur</span>
+            <button id="legend-toggle" class="legend-toggle" aria-label="Replier la legende">&minus;</button>
+          </div>
+          <div class="legend-scale">
+            <span class="legend-min" id="legend-min">0</span>
+            <div class="legend-gradient"></div>
+            <span class="legend-max" id="legend-max">100</span>
+          </div>
+          <div class="legend-caption" id="legend-caption">Valeurs relatives au pays selectionne</div>
+        </div>
         <div id="tooltip" class="tooltip"></div>
       </section>
     </main>
