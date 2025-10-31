@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Carte mondiale - Taux de criminalité</title>
+    <title>Carte mondiale - Taux de criminalite</title>
     <link rel="stylesheet" href="src/css/map.css" />
   </head>
   <body>
@@ -15,22 +15,21 @@
         <div class="map-controls">
           <a href="index.html" class="active"><img src="src/img/map.svg" alt="icone de map"></a>
           <hr>
-          <a href="#"><img src="src/img/graph.svg" alt="icone de nuage de points"></a>
+          <a href="scatter_plot.html"><img src="src/img/graph.svg" alt="icone de nuage de points"></a>
           <hr>
           <a href="#"><img src="src/img/plot.svg" alt="icone de radar"></a>
-          <hr>
-          <a href="#"><img src="src/img/graph-filled.svg" alt="icone de graph"></a>
         </div>
       </nav>
     </header>
 
-    <!-- 🧩 Panneau latéral (popup filtres) -->
-    <aside id="filter-panel" class="filter-panel hidden">
-      <h2>Filtres</h2>
-      <label><input type="radio" name="crime" value="average" checked> Moyenne</label>
-      <label><input type="radio" name="crime" value="sexual"> Crimes sexuels</label>
-      <label><input type="radio" name="crime" value="corruption"> Corruption</label>
-      <label><input type="radio" name="crime" value="homicide"> Homicides</label>
+    <!-- Panneau lateral (popup filtres) -->
+    <aside id="filter-panel" class="filter-panel hidden" aria-hidden="true">
+      <div class="filter-panel-header">
+        <h2>Filtres</h2>
+        <button id="filter-close-btn" class="filter-close" aria-label="Fermer les filtres">&times;</button>
+      </div>
+      <p class="filter-panel-subtitle">Choisissez un indicateur pour colorer la carte et mettre a jour les informations.</p>
+      <div id="indicator-groups" class="indicator-groups"></div>
     </aside>
 
     <main class="page-main">
