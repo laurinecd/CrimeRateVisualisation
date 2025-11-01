@@ -27,8 +27,25 @@
     </header>
 
     <main class="page-main">
-      <div id="scatter"></div>
+   
+      <div id="scatter-container">
+        <div id="scatter"></div>
+        
+        <div class="controls">
+          <label class="toggle-scale">
+            <input type="checkbox" id="toggleScale">
+            Échelle logarithmique
+          </label>
+          
+          <div class="year-slider-container">
+            <label for="yearSlider">Année : <span id="yearDisplay">2000</span></label>
+            <input type="range" id="yearSlider" class="year-slider">
+          </div>
+        </div>
+      </div>
+
       <div id="tooltip" class="tooltip"></div>
+      
     </main>
 
     <script src="lib/d3.v5.min.js"></script>
