@@ -6,17 +6,81 @@ body {
   background: #f8f9fa;
 }
 
+/* === Layout principal === */
+.page-main {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  min-height: 100vh;
+  align-items: center;
+}
+
+/* === Sidebar === */
+.variable-sidebar {
+  flex-shrink: 0;
+  width: 250px;
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  height: fit-content;
+}
+
+.variable-sidebar h3 {
+  margin: 0 0 20px 0;
+  font-size: 18px;
+  color: #333;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 10px;
+}
+
+.axis-selector {
+  margin-bottom: 20px;
+}
+
+.axis-selector label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #555;
+  font-size: 14px;
+}
+
+.axis-dropdown {
+  width: 100%;
+  padding: 10px;
+  border: 2px solid #ddd;
+  border-radius: 6px;
+  font-size: 14px;
+  background: white;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.axis-dropdown:hover {
+  border-color: #007bff;
+}
+
+.axis-dropdown:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.1);
+}
+
+/* === Conteneur du scatter plot === */
+#scatter-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+}
+
 #scatter {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-}
-
-#scatter-container {
-  position: relative;
-  width: fit-content;
-  margin: auto;
 }
 
 /* === Points de données === */
@@ -55,6 +119,8 @@ body {
   background: #fff;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 800px;
 }
 
 /* === Bouton Play/Pause === */
@@ -178,4 +244,20 @@ body {
 .x-axis path,
 .y-axis path {
   stroke: #999;
+}
+
+/* === Responsive === */
+@media (max-width: 1200px) {
+  .page-main {
+    flex-direction: column;
+  }
+  
+  .variable-sidebar {
+    width: 100%;
+    max-width: 600px;
+  }
+  
+  #scatter-container {
+    width: 100%;
+  }
 }

@@ -26,20 +26,31 @@
     </header>
 
     <main class="page-main">
+      <aside class="variable-sidebar">
+        <h3>Configuration des axes</h3>
+        
+        <div class="axis-selector">
+          <label for="xSelect">📊 Axe X</label>
+          <select id="xSelect" class="axis-dropdown"></select>
+        </div>
+        
+        <div class="axis-selector">
+          <label for="ySelect">📈 Axe Y</label>
+          <select id="ySelect" class="axis-dropdown"></select>
+        </div>
+      </aside>
+
       <div id="scatter-container">
         <div id="scatter"></div>
         
         <div class="controls">
-          <!-- Bouton play/pause -->
-          <button id="playBtn" onclick="toggleAutoPlay()">▶ Play</button>
+          <button id="playBtn">▶ Play</button>
           
-          <!-- Toggle échelle log -->
           <label class="toggle-scale">
             <input type="checkbox" id="toggleScale">
             Échelle logarithmique
           </label>
           
-          <!-- Slider années -->
           <div class="year-slider-container">
             <label for="yearSlider">Année : <span id="yearDisplay">2000</span></label>
             <input type="range" id="yearSlider" class="year-slider">
@@ -49,6 +60,7 @@
     </main>
 
     <script src="lib/d3.v5.min.js"></script>
+    <script src="src/js/datasets.js"></script> 
     <script src="src/js/data.js"></script>
     <script src="src/js/scatter_plot.js"></script>
   </body>
