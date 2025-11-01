@@ -14,8 +14,7 @@
           <img src="src/img/menu.svg" alt="icone de menu">
         </button>
         <div class="map-controls">
-          
-          <a href="map.html"><img src="src/img/map.svg" alt="icone de map"></a>
+          <a href="index.html"><img src="src/img/map.svg" alt="icone de map"></a>
           <hr>
           <a href="scatter_plot.html" class="active"><img src="src/img/graph.svg" alt="icone de nuage de points"></a>
           <hr>
@@ -27,25 +26,26 @@
     </header>
 
     <main class="page-main">
-   
       <div id="scatter-container">
         <div id="scatter"></div>
         
         <div class="controls">
+          <!-- Bouton play/pause -->
+          <button id="playBtn" onclick="toggleAutoPlay()">▶ Play</button>
+          
+          <!-- Toggle échelle log -->
           <label class="toggle-scale">
             <input type="checkbox" id="toggleScale">
             Échelle logarithmique
           </label>
           
+          <!-- Slider années -->
           <div class="year-slider-container">
             <label for="yearSlider">Année : <span id="yearDisplay">2000</span></label>
             <input type="range" id="yearSlider" class="year-slider">
           </div>
         </div>
       </div>
-
-      <div id="tooltip" class="tooltip"></div>
-      
     </main>
 
     <script src="lib/d3.v5.min.js"></script>

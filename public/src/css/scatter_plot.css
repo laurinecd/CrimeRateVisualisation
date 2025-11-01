@@ -19,30 +19,66 @@ body {
   margin: auto;
 }
 
-/* Tooltip */
-#tooltip {
-  position: fixed;
-  padding: 10px 14px;
-  background: rgba(0, 0, 0, 0.9);
-  color: white;
-  border-radius: 6px;
-  pointer-events: none;
-  opacity: 0;
-  transition: opacity 0.2s;
-  font-size: 14px;
-  z-index: 9999;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+/* === Points de données === */
+.data-point {
+  fill: #007bff;
+  opacity: 0.8;
+  cursor: pointer;
+  transition: all 0.2s ease;
 }
 
-/* Contrôles */
+.data-point.hovered {
+  fill: #ff6b6b;
+  r: 8;
+  opacity: 1;
+}
+
+/* === Labels et titre === */
+.axis-label {
+  font-size: 14px;
+  fill: #333;
+}
+
+.chart-title {
+  font-size: 18px;
+  font-weight: bold;
+  fill: #333;
+}
+
+/* === Contrôles === */
 .controls {
   display: flex;
-  gap: 30px;
+  gap: 20px;
   align-items: center;
   margin-top: 20px;
   padding: 15px;
-  background: #f8f9fa;
+  background: #fff;
   border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* === Bouton Play/Pause === */
+#playBtn {
+  padding: 10px 20px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#playBtn:hover {
+  background: #0056b3;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#playBtn:active {
+  transform: translateY(0);
 }
 
 /* Toggle échelle logarithmique */
@@ -52,6 +88,7 @@ body {
   gap: 8px;
   cursor: pointer;
   font-weight: 500;
+  user-select: none;
 }
 
 .toggle-scale input[type="checkbox"] {
@@ -87,6 +124,7 @@ body {
   background: #ddd;
   outline: none;
   -webkit-appearance: none;
+  cursor: pointer;
 }
 
 .year-slider::-webkit-slider-thumb {
@@ -97,11 +135,16 @@ body {
   border-radius: 50%;
   background: #007bff;
   cursor: pointer;
-  transition: background 0.2s;
+  transition: background 0.2s, transform 0.1s;
 }
 
 .year-slider::-webkit-slider-thumb:hover {
   background: #0056b3;
+  transform: scale(1.1);
+}
+
+.year-slider::-webkit-slider-thumb:active {
+  transform: scale(0.95);
 }
 
 .year-slider::-moz-range-thumb {
@@ -111,9 +154,28 @@ body {
   background: #007bff;
   cursor: pointer;
   border: none;
-  transition: background 0.2s;
+  transition: background 0.2s, transform 0.1s;
 }
 
 .year-slider::-moz-range-thumb:hover {
   background: #0056b3;
+  transform: scale(1.1);
+}
+
+.year-slider::-moz-range-thumb:active {
+  transform: scale(0.95);
+}
+
+/* === Axes === */
+.x-axis text,
+.y-axis text {
+  font-size: 12px;
+  fill: #666;
+}
+
+.x-axis line,
+.y-axis line,
+.x-axis path,
+.y-axis path {
+  stroke: #999;
 }
