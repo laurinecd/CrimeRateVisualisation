@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Carte mondiale - Taux de criminalité</title>
+    <title>Carte mondiale - Taux de criminalite</title>
     <link rel="stylesheet" href="src/css/map.css" />
   </head>
   <body>
@@ -18,24 +18,37 @@
           <a href="scatter_plot.html"><img src="src/img/graph.svg" alt="icone de nuage de points"></a>
           <hr>
           <a href="#"><img src="src/img/plot.svg" alt="icone de radar"></a>
-          <hr>
-          <a href="#"><img src="src/img/graph-filled.svg" alt="icone de graph"></a>
         </div>
       </nav>
     </header>
 
-    <!-- 🧩 Panneau latéral (popup filtres) -->
-    <aside id="filter-panel" class="filter-panel hidden">
-      <h2>Filtres</h2>
-      <label><input type="radio" name="crime" value="average" checked> Moyenne</label>
-      <label><input type="radio" name="crime" value="sexual"> Crimes sexuels</label>
-      <label><input type="radio" name="crime" value="corruption"> Corruption</label>
-      <label><input type="radio" name="crime" value="homicide"> Homicides</label>
+    <!-- Panneau lateral (popup filtres) -->
+    <aside id="filter-panel" class="filter-panel hidden" aria-hidden="true">
+      <div class="filter-panel-header">
+        <h2>Filtres</h2>
+        <button id="filter-close-btn" class="filter-close" aria-label="Fermer les filtres">&times;</button>
+      </div>
+      <p class="filter-panel-subtitle">Choisissez un indicateur pour colorer la carte et mettre a jour les informations.</p>
+      <div id="indicator-groups" class="indicator-groups"></div>
     </aside>
 
     <main class="page-main">
       <section>
         <div id="map"></div>
+        <div id="legend" class="legend legend-hidden" aria-hidden="true" aria-expanded="true">
+          <div class="legend-header">
+            <span id="legend-title">Intensite de l'indicateur</span>
+            <button id="legend-toggle" class="legend-toggle" aria-label="Replier la legende">-</button>
+          </div>
+          <div id="legend-body" class="legend-body">
+            <div class="legend-scale">
+              <span class="legend-min" id="legend-min">0</span>
+              <div class="legend-gradient"></div>
+              <span class="legend-max" id="legend-max">100</span>
+            </div>
+            <div class="legend-caption" id="legend-caption">Valeurs relatives au pays selectionne</div>
+          </div>
+        </div>
         <div id="tooltip" class="tooltip"></div>
       </section>
     </main>
