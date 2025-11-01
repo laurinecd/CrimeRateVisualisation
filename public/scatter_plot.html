@@ -10,29 +10,53 @@
   <body>
     <header class="page-header">
       <nav>
-        <button class="menu-btn" aria-label="menu">
-          <img src="src/img/menu.svg" alt="icone de menu">
-        </button>
+
         <div class="map-controls">
-          
           <a href="index.html"><img src="src/img/map.svg" alt="icone de map"></a>
           <hr>
           <a href="scatter_plot.html" class="active"><img src="src/img/graph.svg" alt="icone de nuage de points"></a>
           <hr>
           <a href="#"><img src="src/img/plot.svg" alt="icone de radar"></a>
-          <hr>
-          <a href="#"><img src="src/img/graph-filled.svg" alt="icone de graph"></a>
         </div>
       </nav>
     </header>
 
     <main class="page-main">
-      <div id="scatter"></div>
-      <div id="tooltip" class="tooltip"></div>
+      <aside class="variable-sidebar">
+        <h3>Configuration des axes</h3>
+        
+        <div class="axis-selector">
+          <label for="xSelect">📊 Axe X</label>
+          <select id="xSelect" class="axis-dropdown"></select>
+        </div>
+        
+        <div class="axis-selector">
+          <label for="ySelect">📈 Axe Y</label>
+          <select id="ySelect" class="axis-dropdown"></select>
+        </div>
+      </aside>
+
+      <div id="scatter-container">
+        <div id="scatter"></div>
+        
+        <div class="controls">
+          <button id="playBtn">▶ Play</button>
+          
+          <label class="toggle-scale">
+            <input type="checkbox" id="toggleScale">
+            Échelle logarithmique
+          </label>
+          
+          <div class="year-slider-container">
+            <label for="yearSlider">Année : <span id="yearDisplay">2000</span></label>
+            <input type="range" id="yearSlider" class="year-slider">
+          </div>
+        </div>
+      </div>
     </main>
 
-    <!--<script src="lib/d3.v5.min.js"></script>-->
-    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="lib/d3.v5.min.js"></script>
+    <script src="src/js/datasets.js"></script> 
     <script src="src/js/data.js"></script>
     <script src="src/js/scatter_plot.js"></script>
   </body>
