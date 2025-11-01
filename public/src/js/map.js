@@ -152,7 +152,7 @@ const INDICATORS = [
 ];
 
 const DEFAULT_INDICATOR_ID = 'crime_average';
-const MISSING_COLOR = '#f4d7d7';
+const MISSING_COLOR = '#d9d9d9';
 
 const WORD_REPLACEMENTS = new Map([
   ['dem', 'democratic'],
@@ -903,15 +903,7 @@ function getCountryFill(feature) {
   }
 
   const normalized = feature.properties ? feature.properties.normalizedName : '';
-  let value = indicatorMap.get(normalized);
-
-  if (!Number.isFinite(value)) {
-    const continent = (feature.properties && feature.properties.continent) ||
-      (countryLookup.get(normalized) && countryLookup.get(normalized).continent);
-    const continentStats = continentAggregates.get(activeIndicatorId);
-    const fallback = continentStats ? continentStats.get(continent) : null;
-    value = fallback && Number.isFinite(fallback.value) ? fallback.value : null;
-  }
+  const value = indicatorMap.get(normalized);
 
   return Number.isFinite(value) ? colorScale(value) : MISSING_COLOR;
 }
