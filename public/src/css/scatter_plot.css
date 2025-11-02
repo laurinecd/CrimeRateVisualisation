@@ -1,0 +1,263 @@
+/* src/css/scatter_plot.css */
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background: #f8f9fa;
+}
+
+/* === Layout principal === */
+.page-main {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  min-height: 100vh;
+  align-items: center;
+}
+
+/* === Sidebar === */
+.variable-sidebar {
+  flex-shrink: 0;
+  width: 250px;
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  height: fit-content;
+}
+
+.variable-sidebar h3 {
+  margin: 0 0 20px 0;
+  font-size: 18px;
+  color: #333;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 10px;
+}
+
+.axis-selector {
+  margin-bottom: 20px;
+}
+
+.axis-selector label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #555;
+  font-size: 14px;
+}
+
+.axis-dropdown {
+  width: 100%;
+  padding: 10px;
+  border: 2px solid #ddd;
+  border-radius: 6px;
+  font-size: 14px;
+  background: white;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.axis-dropdown:hover {
+  border-color: #007bff;
+}
+
+.axis-dropdown:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.1);
+}
+
+/* === Conteneur du scatter plot === */
+#scatter-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+}
+
+#scatter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* === Points de données === */
+.data-point {
+  fill: #007bff;
+  opacity: 0.8;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.data-point.hovered {
+  fill: #ff6b6b;
+  r: 8;
+  opacity: 1;
+}
+
+/* === Labels et titre === */
+.axis-label {
+  font-size: 14px;
+  fill: #333;
+}
+
+.chart-title {
+  font-size: 18px;
+  font-weight: bold;
+  fill: #333;
+}
+
+/* === Contrôles === */
+.controls {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  margin-top: 20px;
+  padding: 15px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 800px;
+}
+
+/* === Bouton Play/Pause === */
+#playBtn {
+  padding: 10px 20px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#playBtn:hover {
+  background: #0056b3;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#playBtn:active {
+  transform: translateY(0);
+}
+
+/* Toggle échelle logarithmique */
+.toggle-scale {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  font-weight: 500;
+  user-select: none;
+}
+
+.toggle-scale input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}
+
+/* Curseur d'années */
+.year-slider-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+  max-width: 400px;
+}
+
+.year-slider-container label {
+  font-weight: 600;
+  color: #333;
+}
+
+#yearDisplay {
+  color: #007bff;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.year-slider {
+  width: 100%;
+  height: 6px;
+  border-radius: 5px;
+  background: #ddd;
+  outline: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+}
+
+.year-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #007bff;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.1s;
+}
+
+.year-slider::-webkit-slider-thumb:hover {
+  background: #0056b3;
+  transform: scale(1.1);
+}
+
+.year-slider::-webkit-slider-thumb:active {
+  transform: scale(0.95);
+}
+
+.year-slider::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #007bff;
+  cursor: pointer;
+  border: none;
+  transition: background 0.2s, transform 0.1s;
+}
+
+.year-slider::-moz-range-thumb:hover {
+  background: #0056b3;
+  transform: scale(1.1);
+}
+
+.year-slider::-moz-range-thumb:active {
+  transform: scale(0.95);
+}
+
+/* === Axes === */
+.x-axis text,
+.y-axis text {
+  font-size: 12px;
+  fill: #666;
+}
+
+.x-axis line,
+.y-axis line,
+.x-axis path,
+.y-axis path {
+  stroke: #999;
+}
+
+/* === Responsive === */
+@media (max-width: 1200px) {
+  .page-main {
+    flex-direction: column;
+  }
+  
+  .variable-sidebar {
+    width: 100%;
+    max-width: 600px;
+  }
+  
+  #scatter-container {
+    width: 100%;
+  }
+}

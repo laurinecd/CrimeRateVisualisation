@@ -1,0 +1,8917 @@
+[
+  {
+    "Country": "Albania",
+    "Year": 2002,
+    "Value": 3.1
+  },
+  {
+    "Country": "Albania",
+    "Year": 2005,
+    "Value": 1.9
+  },
+  {
+    "Country": "Albania",
+    "Year": 2008,
+    "Value": 0.9
+  },
+  {
+    "Country": "Albania",
+    "Year": 2012,
+    "Value": 1.4
+  },
+  {
+    "Country": "Albania",
+    "Year": 2014,
+    "Value": 2.7
+  },
+  {
+    "Country": "Albania",
+    "Year": 2015,
+    "Value": 0.9
+  },
+  {
+    "Country": "Albania",
+    "Year": 2016,
+    "Value": 1.0
+  },
+  {
+    "Country": "Albania",
+    "Year": 2017,
+    "Value": 1.0
+  },
+  {
+    "Country": "Albania",
+    "Year": 2018,
+    "Value": 0.7
+  },
+  {
+    "Country": "Albania",
+    "Year": 2019,
+    "Value": 0.3
+  },
+  {
+    "Country": "Albania",
+    "Year": 2020,
+    "Value": 0.3
+  },
+  {
+    "Country": "Algeria",
+    "Year": 2011,
+    "Value": 0.4
+  },
+  {
+    "Country": "Angola",
+    "Year": 2000,
+    "Value": 18.0
+  },
+  {
+    "Country": "Angola",
+    "Year": 2008,
+    "Value": 13.5
+  },
+  {
+    "Country": "Angola",
+    "Year": 2018,
+    "Value": 24.9
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2000,
+    "Value": 5.0
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2001,
+    "Value": 7.8
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2002,
+    "Value": 11.1
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2003,
+    "Value": 5.2
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2004,
+    "Value": 3.8
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2005,
+    "Value": 2.9
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2006,
+    "Value": 2.3
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2007,
+    "Value": 1.9
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2008,
+    "Value": 1.8
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2009,
+    "Value": 1.6
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2010,
+    "Value": 1.0
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2011,
+    "Value": 0.8
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2012,
+    "Value": 0.8
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2013,
+    "Value": 0.8
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2014,
+    "Value": 0.8
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2016,
+    "Value": 0.8
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2017,
+    "Value": 0.8
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2018,
+    "Value": 1.1
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2019,
+    "Value": 1.2
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2020,
+    "Value": 1.3
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2021,
+    "Value": 1.1
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2022,
+    "Value": 0.9
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2023,
+    "Value": 0.8
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2001,
+    "Value": 14.3
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2002,
+    "Value": 12.2
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2003,
+    "Value": 9.8
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2004,
+    "Value": 7.1
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2005,
+    "Value": 4.3
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2006,
+    "Value": 3.3
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2007,
+    "Value": 2.8
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2008,
+    "Value": 1.7
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2009,
+    "Value": 2.5
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2010,
+    "Value": 2.6
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2011,
+    "Value": 2.5
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2012,
+    "Value": 2.2
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2013,
+    "Value": 2.4
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2014,
+    "Value": 2.3
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2015,
+    "Value": 2.1
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2016,
+    "Value": 1.9
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2017,
+    "Value": 1.6
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2018,
+    "Value": 2.1
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2019,
+    "Value": 1.9
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2020,
+    "Value": 1.2
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2021,
+    "Value": 1.6
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2022,
+    "Value": 1.8
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2023,
+    "Value": 1.6
+  },
+  {
+    "Country": "Australia",
+    "Year": 2001,
+    "Value": 0.7
+  },
+  {
+    "Country": "Australia",
+    "Year": 2003,
+    "Value": 0.9
+  },
+  {
+    "Country": "Australia",
+    "Year": 2004,
+    "Value": 0.5
+  },
+  {
+    "Country": "Australia",
+    "Year": 2008,
+    "Value": 0.4
+  },
+  {
+    "Country": "Australia",
+    "Year": 2010,
+    "Value": 0.4
+  },
+  {
+    "Country": "Australia",
+    "Year": 2014,
+    "Value": 0.4
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Value": 0.4
+  },
+  {
+    "Country": "Australia",
+    "Year": 2018,
+    "Value": 0.5
+  },
+  {
+    "Country": "Austria",
+    "Year": 2000,
+    "Value": 0.1
+  },
+  {
+    "Country": "Austria",
+    "Year": 2003,
+    "Value": 0.3
+  },
+  {
+    "Country": "Austria",
+    "Year": 2004,
+    "Value": 0.1
+  },
+  {
+    "Country": "Austria",
+    "Year": 2005,
+    "Value": 0.1
+  },
+  {
+    "Country": "Austria",
+    "Year": 2006,
+    "Value": 0.1
+  },
+  {
+    "Country": "Austria",
+    "Year": 2007,
+    "Value": 0.3
+  },
+  {
+    "Country": "Austria",
+    "Year": 2008,
+    "Value": 0.3
+  },
+  {
+    "Country": "Austria",
+    "Year": 2009,
+    "Value": 0.5
+  },
+  {
+    "Country": "Austria",
+    "Year": 2010,
+    "Value": 0.4
+  },
+  {
+    "Country": "Austria",
+    "Year": 2011,
+    "Value": 0.4
+  },
+  {
+    "Country": "Austria",
+    "Year": 2012,
+    "Value": 0.5
+  },
+  {
+    "Country": "Austria",
+    "Year": 2013,
+    "Value": 0.3
+  },
+  {
+    "Country": "Austria",
+    "Year": 2014,
+    "Value": 0.2
+  },
+  {
+    "Country": "Austria",
+    "Year": 2015,
+    "Value": 0.6
+  },
+  {
+    "Country": "Austria",
+    "Year": 2016,
+    "Value": 0.6
+  },
+  {
+    "Country": "Austria",
+    "Year": 2017,
+    "Value": 0.3
+  },
+  {
+    "Country": "Austria",
+    "Year": 2018,
+    "Value": 0.5
+  },
+  {
+    "Country": "Austria",
+    "Year": 2019,
+    "Value": 0.5
+  },
+  {
+    "Country": "Austria",
+    "Year": 2020,
+    "Value": 0.7
+  },
+  {
+    "Country": "Austria",
+    "Year": 2021,
+    "Value": 0.4
+  },
+  {
+    "Country": "Austria",
+    "Year": 2022,
+    "Value": 0.4
+  },
+  {
+    "Country": "Azerbaijan",
+    "Year": 2001,
+    "Value": 7.3
+  },
+  {
+    "Country": "Azerbaijan",
+    "Year": 2002,
+    "Value": 0.3
+  },
+  {
+    "Country": "Azerbaijan",
+    "Year": 2003,
+    "Value": 0.4
+  },
+  {
+    "Country": "Azerbaijan",
+    "Year": 2004,
+    "Value": 0.1
+  },
+  {
+    "Country": "Azerbaijan",
+    "Year": 2005,
+    "Value": 0.0
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": 2000,
+    "Value": 23.2
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": 2005,
+    "Value": 18.3
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": 2010,
+    "Value": 14.9
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": 2016,
+    "Value": 11.9
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": 2022,
+    "Value": 5.5
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2016,
+    "Value": 1.3
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2000,
+    "Value": 16.1
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2001,
+    "Value": 9.3
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2002,
+    "Value": 7.1
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2003,
+    "Value": 5.9
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2004,
+    "Value": 3.0
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2005,
+    "Value": 1.7
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2006,
+    "Value": 0.9
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2007,
+    "Value": 0.7
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2008,
+    "Value": 0.4
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2009,
+    "Value": 0.4
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2010,
+    "Value": 0.2
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2011,
+    "Value": 0.1
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2012,
+    "Value": 0.0
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2013,
+    "Value": 0.0
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2014,
+    "Value": 0.0
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2015,
+    "Value": 0.0
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2016,
+    "Value": 0.0
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2017,
+    "Value": 0.0
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2018,
+    "Value": 0.0
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2019,
+    "Value": 0.0
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2020,
+    "Value": 0.0
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2000,
+    "Value": 0.3
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2003,
+    "Value": 0.2
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2004,
+    "Value": 0.0
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2005,
+    "Value": 0.2
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2006,
+    "Value": 0.1
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2007,
+    "Value": 0.1
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2008,
+    "Value": 0.1
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2009,
+    "Value": 0.1
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2010,
+    "Value": 0.1
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2011,
+    "Value": 0.1
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2012,
+    "Value": 0.1
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2013,
+    "Value": 0.1
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2014,
+    "Value": 0.1
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2015,
+    "Value": 0.1
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2016,
+    "Value": 0.1
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2017,
+    "Value": 0.1
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2018,
+    "Value": 0.1
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2019,
+    "Value": 0.1
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2020,
+    "Value": 0.1
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2021,
+    "Value": 0.0
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2022,
+    "Value": 0.0
+  },
+  {
+    "Country": "Belize",
+    "Year": 2018,
+    "Value": 0.8
+  },
+  {
+    "Country": "Benin",
+    "Year": 2003,
+    "Value": 43.1
+  },
+  {
+    "Country": "Benin",
+    "Year": 2011,
+    "Value": 43.1
+  },
+  {
+    "Country": "Benin",
+    "Year": 2015,
+    "Value": 44.1
+  },
+  {
+    "Country": "Benin",
+    "Year": 2018,
+    "Value": 21.5
+  },
+  {
+    "Country": "Benin",
+    "Year": 2021,
+    "Value": 16.2
+  },
+  {
+    "Country": "Bhutan",
+    "Year": 2003,
+    "Value": 13.1
+  },
+  {
+    "Country": "Bhutan",
+    "Year": 2007,
+    "Value": 7.2
+  },
+  {
+    "Country": "Bhutan",
+    "Year": 2012,
+    "Value": 2.6
+  },
+  {
+    "Country": "Bhutan",
+    "Year": 2017,
+    "Value": 2.0
+  },
+  {
+    "Country": "Bhutan",
+    "Year": 2022,
+    "Value": 0.1
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2000,
+    "Value": 21.3
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2001,
+    "Value": 16.0
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2002,
+    "Value": 17.3
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2004,
+    "Value": 9.1
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2005,
+    "Value": 13.3
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2006,
+    "Value": 11.0
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2007,
+    "Value": 8.4
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2008,
+    "Value": 7.2
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2009,
+    "Value": 6.9
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2011,
+    "Value": 4.6
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2012,
+    "Value": 5.4
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2013,
+    "Value": 4.5
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2014,
+    "Value": 3.9
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2015,
+    "Value": 4.1
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2016,
+    "Value": 4.8
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2017,
+    "Value": 4.2
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2018,
+    "Value": 3.1
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2019,
+    "Value": 2.0
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2020,
+    "Value": 2.6
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2021,
+    "Value": 1.9
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2022,
+    "Value": 2.1
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2023,
+    "Value": 1.7
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2001,
+    "Value": 0.4
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2004,
+    "Value": 0.3
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2007,
+    "Value": 0.1
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2011,
+    "Value": 0.2
+  },
+  {
+    "Country": "Botswana",
+    "Year": 2002,
+    "Value": 21.7
+  },
+  {
+    "Country": "Botswana",
+    "Year": 2009,
+    "Value": 12.8
+  },
+  {
+    "Country": "Botswana",
+    "Year": 2015,
+    "Value": 12.9
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2001,
+    "Value": 11.3
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2002,
+    "Value": 10.4
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2003,
+    "Value": 11.0
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2004,
+    "Value": 9.8
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2005,
+    "Value": 8.8
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2006,
+    "Value": 7.5
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2007,
+    "Value": 7.1
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2008,
+    "Value": 6.0
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2009,
+    "Value": 5.6
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2011,
+    "Value": 4.8
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2012,
+    "Value": 4.1
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2013,
+    "Value": 3.5
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2014,
+    "Value": 3.1
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2015,
+    "Value": 3.5
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2016,
+    "Value": 4.2
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2017,
+    "Value": 4.5
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2018,
+    "Value": 4.5
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2019,
+    "Value": 4.6
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2020,
+    "Value": 1.8
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2021,
+    "Value": 4.8
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2022,
+    "Value": 3.1
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2023,
+    "Value": 2.6
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2001,
+    "Value": 2.8
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2003,
+    "Value": 1.4
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2006,
+    "Value": 5.4
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2007,
+    "Value": 1.8
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2008,
+    "Value": 1.3
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2009,
+    "Value": 1.1
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2010,
+    "Value": 1.8
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2011,
+    "Value": 2.3
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2012,
+    "Value": 2.1
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2013,
+    "Value": 2.1
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2014,
+    "Value": 1.6
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2015,
+    "Value": 3.0
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2016,
+    "Value": 2.0
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2017,
+    "Value": 1.3
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2018,
+    "Value": 0.9
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2019,
+    "Value": 1.0
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2020,
+    "Value": 0.4
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2021,
+    "Value": 0.7
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2022,
+    "Value": 0.7
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2003,
+    "Value": 43.7
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2009,
+    "Value": 41.4
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2014,
+    "Value": 33.1
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2018,
+    "Value": 27.6
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2021,
+    "Value": 24.4
+  },
+  {
+    "Country": "Burundi",
+    "Year": 2006,
+    "Value": 51.5
+  },
+  {
+    "Country": "Burundi",
+    "Year": 2013,
+    "Value": 48.1
+  },
+  {
+    "Country": "Burundi",
+    "Year": 2020,
+    "Value": 46.5
+  },
+  {
+    "Country": "Cabo Verde",
+    "Year": 2001,
+    "Value": 22.7
+  },
+  {
+    "Country": "Cabo Verde",
+    "Year": 2007,
+    "Value": 15.2
+  },
+  {
+    "Country": "Cabo Verde",
+    "Year": 2015,
+    "Value": 9.2
+  },
+  {
+    "Country": "Cameroon",
+    "Year": 2001,
+    "Value": 17.8
+  },
+  {
+    "Country": "Cameroon",
+    "Year": 2007,
+    "Value": 21.1
+  },
+  {
+    "Country": "Cameroon",
+    "Year": 2014,
+    "Value": 17.4
+  },
+  {
+    "Country": "Cameroon",
+    "Year": 2021,
+    "Value": 15.6
+  },
+  {
+    "Country": "Canada",
+    "Year": 2000,
+    "Value": 0.2
+  },
+  {
+    "Country": "Canada",
+    "Year": 2001,
+    "Value": 0.2
+  },
+  {
+    "Country": "Canada",
+    "Year": 2002,
+    "Value": 0.2
+  },
+  {
+    "Country": "Canada",
+    "Year": 2003,
+    "Value": 0.2
+  },
+  {
+    "Country": "Canada",
+    "Year": 2004,
+    "Value": 0.2
+  },
+  {
+    "Country": "Canada",
+    "Year": 2005,
+    "Value": 0.2
+  },
+  {
+    "Country": "Canada",
+    "Year": 2006,
+    "Value": 0.2
+  },
+  {
+    "Country": "Canada",
+    "Year": 2007,
+    "Value": 0.2
+  },
+  {
+    "Country": "Canada",
+    "Year": 2008,
+    "Value": 0.2
+  },
+  {
+    "Country": "Canada",
+    "Year": 2009,
+    "Value": 0.2
+  },
+  {
+    "Country": "Canada",
+    "Year": 2010,
+    "Value": 0.2
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Value": 0.2
+  },
+  {
+    "Country": "Canada",
+    "Year": 2012,
+    "Value": 0.2
+  },
+  {
+    "Country": "Canada",
+    "Year": 2013,
+    "Value": 0.3
+  },
+  {
+    "Country": "Canada",
+    "Year": 2014,
+    "Value": 0.2
+  },
+  {
+    "Country": "Canada",
+    "Year": 2015,
+    "Value": 0.3
+  },
+  {
+    "Country": "Canada",
+    "Year": 2016,
+    "Value": 0.3
+  },
+  {
+    "Country": "Canada",
+    "Year": 2017,
+    "Value": 0.3
+  },
+  {
+    "Country": "Canada",
+    "Year": 2018,
+    "Value": 0.2
+  },
+  {
+    "Country": "Canada",
+    "Year": 2019,
+    "Value": 0.2
+  },
+  {
+    "Country": "Canada",
+    "Year": 2020,
+    "Value": 0.1
+  },
+  {
+    "Country": "Central African Republic",
+    "Year": 2008,
+    "Value": 45.2
+  },
+  {
+    "Country": "Central African Republic",
+    "Year": 2021,
+    "Value": 46.9
+  },
+  {
+    "Country": "Chad",
+    "Year": 2003,
+    "Value": 42.3
+  },
+  {
+    "Country": "Chad",
+    "Year": 2011,
+    "Value": 28.7
+  },
+  {
+    "Country": "Chad",
+    "Year": 2018,
+    "Value": 24.4
+  },
+  {
+    "Country": "Chad",
+    "Year": 2022,
+    "Value": 23.2
+  },
+  {
+    "Country": "Chile",
+    "Year": 2000,
+    "Value": 5.7
+  },
+  {
+    "Country": "Chile",
+    "Year": 2003,
+    "Value": 5.3
+  },
+  {
+    "Country": "Chile",
+    "Year": 2006,
+    "Value": 2.3
+  },
+  {
+    "Country": "Chile",
+    "Year": 2009,
+    "Value": 1.8
+  },
+  {
+    "Country": "Chile",
+    "Year": 2011,
+    "Value": 1.1
+  },
+  {
+    "Country": "Chile",
+    "Year": 2013,
+    "Value": 0.6
+  },
+  {
+    "Country": "Chile",
+    "Year": 2015,
+    "Value": 0.5
+  },
+  {
+    "Country": "Chile",
+    "Year": 2017,
+    "Value": 0.4
+  },
+  {
+    "Country": "Chile",
+    "Year": 2020,
+    "Value": 1.3
+  },
+  {
+    "Country": "Chile",
+    "Year": 2022,
+    "Value": 0.4
+  },
+  {
+    "Country": "China",
+    "Year": 2002,
+    "Value": 29.3
+  },
+  {
+    "Country": "China",
+    "Year": 2005,
+    "Value": 19.6
+  },
+  {
+    "Country": "China",
+    "Year": 2008,
+    "Value": 15.7
+  },
+  {
+    "Country": "China",
+    "Year": 2010,
+    "Value": 12.4
+  },
+  {
+    "Country": "China",
+    "Year": 2011,
+    "Value": 9.7
+  },
+  {
+    "Country": "China",
+    "Year": 2012,
+    "Value": 8.1
+  },
+  {
+    "Country": "China",
+    "Year": 2013,
+    "Value": 4.1
+  },
+  {
+    "Country": "China",
+    "Year": 2014,
+    "Value": 3.2
+  },
+  {
+    "Country": "China",
+    "Year": 2015,
+    "Value": 2.2
+  },
+  {
+    "Country": "China",
+    "Year": 2016,
+    "Value": 1.6
+  },
+  {
+    "Country": "China",
+    "Year": 2017,
+    "Value": 1.3
+  },
+  {
+    "Country": "China",
+    "Year": 2018,
+    "Value": 0.8
+  },
+  {
+    "Country": "China",
+    "Year": 2019,
+    "Value": 0.3
+  },
+  {
+    "Country": "China",
+    "Year": 2020,
+    "Value": 0.1
+  },
+  {
+    "Country": "China",
+    "Year": 2021,
+    "Value": 0.0
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2000,
+    "Value": 17.7
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2001,
+    "Value": 20.2
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2002,
+    "Value": 13.6
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2003,
+    "Value": 12.9
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2004,
+    "Value": 12.1
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2005,
+    "Value": 10.8
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2008,
+    "Value": 10.8
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2009,
+    "Value": 9.7
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2010,
+    "Value": 8.5
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2011,
+    "Value": 7.3
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2012,
+    "Value": 7.0
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2013,
+    "Value": 6.4
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2014,
+    "Value": 5.9
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2015,
+    "Value": 5.3
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2016,
+    "Value": 5.3
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2017,
+    "Value": 4.9
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2018,
+    "Value": 5.0
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2019,
+    "Value": 5.7
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2020,
+    "Value": 9.3
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2021,
+    "Value": 7.3
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2022,
+    "Value": 6.2
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2023,
+    "Value": 5.2
+  },
+  {
+    "Country": "Comoros",
+    "Year": 2004,
+    "Value": 17.1
+  },
+  {
+    "Country": "Comoros",
+    "Year": 2014,
+    "Value": 19.9
+  },
+  {
+    "Country": "Congo, Dem. Rep.",
+    "Year": 2004,
+    "Value": 74.2
+  },
+  {
+    "Country": "Congo, Dem. Rep.",
+    "Year": 2012,
+    "Value": 53.4
+  },
+  {
+    "Country": "Congo, Dem. Rep.",
+    "Year": 2020,
+    "Value": 60.3
+  },
+  {
+    "Country": "Congo, Rep.",
+    "Year": 2005,
+    "Value": 34.0
+  },
+  {
+    "Country": "Congo, Rep.",
+    "Year": 2011,
+    "Value": 25.0
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2000,
+    "Value": 6.7
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2001,
+    "Value": 5.1
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2002,
+    "Value": 4.6
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2003,
+    "Value": 4.6
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2004,
+    "Value": 4.3
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2005,
+    "Value": 3.3
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2006,
+    "Value": 3.3
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2007,
+    "Value": 2.1
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2008,
+    "Value": 2.3
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2009,
+    "Value": 2.5
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2010,
+    "Value": 1.6
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2011,
+    "Value": 1.8
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2012,
+    "Value": 1.7
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2013,
+    "Value": 1.7
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2014,
+    "Value": 1.6
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2015,
+    "Value": 1.7
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2016,
+    "Value": 1.5
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2017,
+    "Value": 1.2
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2018,
+    "Value": 1.5
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2019,
+    "Value": 1.2
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2020,
+    "Value": 2.4
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2021,
+    "Value": 1.4
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2022,
+    "Value": 1.1
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2023,
+    "Value": 1.0
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2024,
+    "Value": 0.8
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Year": 2002,
+    "Value": 26.7
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Year": 2008,
+    "Value": 29.8
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Year": 2015,
+    "Value": 28.9
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Year": 2018,
+    "Value": 13.4
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Year": 2021,
+    "Value": 12.3
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2000,
+    "Value": 0.0
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2001,
+    "Value": 0.0
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2004,
+    "Value": 0.0
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2008,
+    "Value": 0.0
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2009,
+    "Value": 0.9
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2010,
+    "Value": 1.2
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2011,
+    "Value": 0.7
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2012,
+    "Value": 0.8
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2013,
+    "Value": 0.9
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2014,
+    "Value": 0.9
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2015,
+    "Value": 0.6
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2016,
+    "Value": 0.6
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2017,
+    "Value": 0.5
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2018,
+    "Value": 0.4
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2019,
+    "Value": 0.3
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2020,
+    "Value": 0.3
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2021,
+    "Value": 0.3
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2022,
+    "Value": 0.3
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2004,
+    "Value": 0.1
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2005,
+    "Value": 0.0
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2006,
+    "Value": 0.0
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2007,
+    "Value": 0.0
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2008,
+    "Value": 0.0
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2009,
+    "Value": 0.1
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2010,
+    "Value": 0.0
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2011,
+    "Value": 0.0
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2012,
+    "Value": 0.0
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2013,
+    "Value": 0.1
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2014,
+    "Value": 0.1
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2015,
+    "Value": 0.0
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2016,
+    "Value": 0.0
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2017,
+    "Value": 0.0
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2018,
+    "Value": 0.0
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2019,
+    "Value": 0.2
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2020,
+    "Value": 0.0
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2021,
+    "Value": 0.0
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2022,
+    "Value": 0.0
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2002,
+    "Value": 0.0
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2004,
+    "Value": 0.0
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2005,
+    "Value": 0.0
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2006,
+    "Value": 0.0
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2007,
+    "Value": 0.1
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2008,
+    "Value": 0.0
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2009,
+    "Value": 0.0
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2010,
+    "Value": 0.0
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2011,
+    "Value": 0.0
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2012,
+    "Value": 0.1
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2013,
+    "Value": 0.0
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2014,
+    "Value": 0.0
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2015,
+    "Value": 0.0
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2016,
+    "Value": 0.0
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2017,
+    "Value": 0.0
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2018,
+    "Value": 0.0
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2019,
+    "Value": 0.0
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2020,
+    "Value": 0.0
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2021,
+    "Value": 0.0
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2022,
+    "Value": 0.0
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2000,
+    "Value": 0.0
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2003,
+    "Value": 0.3
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2004,
+    "Value": 0.3
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2005,
+    "Value": 0.2
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2006,
+    "Value": 0.1
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2007,
+    "Value": 0.1
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2008,
+    "Value": 0.2
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2009,
+    "Value": 0.3
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2010,
+    "Value": 0.0
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2011,
+    "Value": 0.0
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2012,
+    "Value": 0.0
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2013,
+    "Value": 0.3
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2014,
+    "Value": 0.2
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2015,
+    "Value": 0.2
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2016,
+    "Value": 0.2
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2017,
+    "Value": 0.1
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2018,
+    "Value": 0.2
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2019,
+    "Value": 0.2
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2020,
+    "Value": 0.1
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2021,
+    "Value": 0.1
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2022,
+    "Value": 0.2
+  },
+  {
+    "Country": "Djibouti",
+    "Year": 2002,
+    "Value": 19.6
+  },
+  {
+    "Country": "Djibouti",
+    "Year": 2012,
+    "Value": 17.7
+  },
+  {
+    "Country": "Djibouti",
+    "Year": 2013,
+    "Value": 19.8
+  },
+  {
+    "Country": "Djibouti",
+    "Year": 2017,
+    "Value": 16.5
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2000,
+    "Value": 5.3
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2001,
+    "Value": 4.4
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2002,
+    "Value": 5.7
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2003,
+    "Value": 6.8
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2004,
+    "Value": 8.9
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2005,
+    "Value": 6.1
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2006,
+    "Value": 5.0
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2007,
+    "Value": 4.9
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2008,
+    "Value": 4.6
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2009,
+    "Value": 4.1
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2010,
+    "Value": 3.7
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2011,
+    "Value": 3.4
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2012,
+    "Value": 3.4
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2013,
+    "Value": 2.9
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2014,
+    "Value": 2.5
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2015,
+    "Value": 2.1
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2016,
+    "Value": 1.9
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2017,
+    "Value": 1.1
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2018,
+    "Value": 0.7
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2019,
+    "Value": 0.7
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2020,
+    "Value": 1.0
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2021,
+    "Value": 0.9
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2022,
+    "Value": 0.7
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2023,
+    "Value": 0.9
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2000,
+    "Value": 22.3
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2003,
+    "Value": 12.3
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2004,
+    "Value": 12.7
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2005,
+    "Value": 9.9
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2006,
+    "Value": 7.1
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2007,
+    "Value": 7.2
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2008,
+    "Value": 6.6
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2009,
+    "Value": 6.1
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2010,
+    "Value": 5.0
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2011,
+    "Value": 4.3
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2012,
+    "Value": 3.9
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2013,
+    "Value": 3.0
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2014,
+    "Value": 2.5
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2015,
+    "Value": 3.1
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2016,
+    "Value": 3.2
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2017,
+    "Value": 2.8
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2018,
+    "Value": 3.0
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2019,
+    "Value": 3.1
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2020,
+    "Value": 5.2
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2021,
+    "Value": 3.4
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2022,
+    "Value": 2.9
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2023,
+    "Value": 3.1
+  },
+  {
+    "Country": "Egypt, Arab Rep.",
+    "Year": 2004,
+    "Value": 3.4
+  },
+  {
+    "Country": "Egypt, Arab Rep.",
+    "Year": 2008,
+    "Value": 3.0
+  },
+  {
+    "Country": "Egypt, Arab Rep.",
+    "Year": 2010,
+    "Value": 1.6
+  },
+  {
+    "Country": "Egypt, Arab Rep.",
+    "Year": 2012,
+    "Value": 1.1
+  },
+  {
+    "Country": "Egypt, Arab Rep.",
+    "Year": 2015,
+    "Value": 1.1
+  },
+  {
+    "Country": "Egypt, Arab Rep.",
+    "Year": 2017,
+    "Value": 2.6
+  },
+  {
+    "Country": "Egypt, Arab Rep.",
+    "Year": 2019,
+    "Value": 1.8
+  },
+  {
+    "Country": "Egypt, Arab Rep.",
+    "Year": 2021,
+    "Value": 1.2
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2000,
+    "Value": 12.0
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2001,
+    "Value": 13.1
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2002,
+    "Value": 13.3
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2003,
+    "Value": 14.5
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2004,
+    "Value": 11.1
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2005,
+    "Value": 10.7
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2006,
+    "Value": 7.9
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2007,
+    "Value": 5.8
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2008,
+    "Value": 7.9
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2009,
+    "Value": 7.7
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2010,
+    "Value": 7.0
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2011,
+    "Value": 6.2
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2012,
+    "Value": 5.4
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2013,
+    "Value": 4.6
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2014,
+    "Value": 4.4
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2015,
+    "Value": 3.4
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2016,
+    "Value": 3.7
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2017,
+    "Value": 3.0
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2018,
+    "Value": 2.7
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2019,
+    "Value": 1.9
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2021,
+    "Value": 3.6
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2022,
+    "Value": 3.5
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2023,
+    "Value": 3.1
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Year": 2022,
+    "Value": 5.6
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2000,
+    "Value": 1.9
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2001,
+    "Value": 1.9
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2002,
+    "Value": 1.9
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2003,
+    "Value": 2.6
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2004,
+    "Value": 1.3
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2005,
+    "Value": 0.8
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2006,
+    "Value": 0.8
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2007,
+    "Value": 0.4
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2008,
+    "Value": 0.4
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2009,
+    "Value": 0.5
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2010,
+    "Value": 0.8
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Value": 0.9
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2012,
+    "Value": 0.7
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2013,
+    "Value": 0.9
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2014,
+    "Value": 0.8
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2015,
+    "Value": 0.6
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2016,
+    "Value": 0.4
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2017,
+    "Value": 0.3
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2018,
+    "Value": 0.3
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2019,
+    "Value": 0.5
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2020,
+    "Value": 0.3
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2021,
+    "Value": 0.3
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2022,
+    "Value": 0.4
+  },
+  {
+    "Country": "Eswatini",
+    "Year": 2000,
+    "Value": 41.4
+  },
+  {
+    "Country": "Eswatini",
+    "Year": 2009,
+    "Value": 37.6
+  },
+  {
+    "Country": "Eswatini",
+    "Year": 2016,
+    "Value": 27.5
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2004,
+    "Value": 23.3
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2010,
+    "Value": 22.2
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2015,
+    "Value": 19.5
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2021,
+    "Value": 22.5
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2002,
+    "Value": 3.5
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2008,
+    "Value": 2.5
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2013,
+    "Value": 1.4
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2019,
+    "Value": 3.3
+  },
+  {
+    "Country": "Finland",
+    "Year": 2000,
+    "Value": 0.0
+  },
+  {
+    "Country": "Finland",
+    "Year": 2003,
+    "Value": 0.0
+  },
+  {
+    "Country": "Finland",
+    "Year": 2004,
+    "Value": 0.0
+  },
+  {
+    "Country": "Finland",
+    "Year": 2005,
+    "Value": 0.1
+  },
+  {
+    "Country": "Finland",
+    "Year": 2006,
+    "Value": 0.1
+  },
+  {
+    "Country": "Finland",
+    "Year": 2007,
+    "Value": 0.1
+  },
+  {
+    "Country": "Finland",
+    "Year": 2008,
+    "Value": 0.1
+  },
+  {
+    "Country": "Finland",
+    "Year": 2009,
+    "Value": 0.0
+  },
+  {
+    "Country": "Finland",
+    "Year": 2010,
+    "Value": 0.0
+  },
+  {
+    "Country": "Finland",
+    "Year": 2011,
+    "Value": 0.0
+  },
+  {
+    "Country": "Finland",
+    "Year": 2012,
+    "Value": 0.0
+  },
+  {
+    "Country": "Finland",
+    "Year": 2013,
+    "Value": 0.1
+  },
+  {
+    "Country": "Finland",
+    "Year": 2014,
+    "Value": 0.1
+  },
+  {
+    "Country": "Finland",
+    "Year": 2015,
+    "Value": 0.1
+  },
+  {
+    "Country": "Finland",
+    "Year": 2016,
+    "Value": 0.0
+  },
+  {
+    "Country": "Finland",
+    "Year": 2017,
+    "Value": 0.1
+  },
+  {
+    "Country": "Finland",
+    "Year": 2018,
+    "Value": 0.1
+  },
+  {
+    "Country": "Finland",
+    "Year": 2019,
+    "Value": 0.0
+  },
+  {
+    "Country": "Finland",
+    "Year": 2020,
+    "Value": 0.0
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Value": 0.0
+  },
+  {
+    "Country": "Finland",
+    "Year": 2022,
+    "Value": 0.1
+  },
+  {
+    "Country": "France",
+    "Year": 2000,
+    "Value": 0.1
+  },
+  {
+    "Country": "France",
+    "Year": 2001,
+    "Value": 0.0
+  },
+  {
+    "Country": "France",
+    "Year": 2002,
+    "Value": 0.0
+  },
+  {
+    "Country": "France",
+    "Year": 2003,
+    "Value": 0.1
+  },
+  {
+    "Country": "France",
+    "Year": 2004,
+    "Value": 0.0
+  },
+  {
+    "Country": "France",
+    "Year": 2005,
+    "Value": 0.0
+  },
+  {
+    "Country": "France",
+    "Year": 2006,
+    "Value": 0.0
+  },
+  {
+    "Country": "France",
+    "Year": 2007,
+    "Value": 0.0
+  },
+  {
+    "Country": "France",
+    "Year": 2008,
+    "Value": 0.0
+  },
+  {
+    "Country": "France",
+    "Year": 2009,
+    "Value": 0.1
+  },
+  {
+    "Country": "France",
+    "Year": 2010,
+    "Value": 0.1
+  },
+  {
+    "Country": "France",
+    "Year": 2011,
+    "Value": 0.0
+  },
+  {
+    "Country": "France",
+    "Year": 2012,
+    "Value": 0.0
+  },
+  {
+    "Country": "France",
+    "Year": 2013,
+    "Value": 0.1
+  },
+  {
+    "Country": "France",
+    "Year": 2014,
+    "Value": 0.0
+  },
+  {
+    "Country": "France",
+    "Year": 2015,
+    "Value": 0.1
+  },
+  {
+    "Country": "France",
+    "Year": 2016,
+    "Value": 0.1
+  },
+  {
+    "Country": "France",
+    "Year": 2017,
+    "Value": 0.0
+  },
+  {
+    "Country": "France",
+    "Year": 2018,
+    "Value": 0.0
+  },
+  {
+    "Country": "France",
+    "Year": 2019,
+    "Value": 0.0
+  },
+  {
+    "Country": "France",
+    "Year": 2020,
+    "Value": 0.1
+  },
+  {
+    "Country": "France",
+    "Year": 2021,
+    "Value": 0.1
+  },
+  {
+    "Country": "France",
+    "Year": 2022,
+    "Value": 0.0
+  },
+  {
+    "Country": "Gabon",
+    "Year": 2005,
+    "Value": 5.8
+  },
+  {
+    "Country": "Gabon",
+    "Year": 2017,
+    "Value": 2.4
+  },
+  {
+    "Country": "Gambia, The",
+    "Year": 2003,
+    "Value": 34.4
+  },
+  {
+    "Country": "Gambia, The",
+    "Year": 2010,
+    "Value": 20.7
+  },
+  {
+    "Country": "Gambia, The",
+    "Year": 2015,
+    "Value": 10.8
+  },
+  {
+    "Country": "Gambia, The",
+    "Year": 2020,
+    "Value": 13.1
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2000,
+    "Value": 22.1
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2001,
+    "Value": 22.7
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2002,
+    "Value": 13.8
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2003,
+    "Value": 14.0
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2004,
+    "Value": 13.0
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2005,
+    "Value": 13.9
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2006,
+    "Value": 13.9
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2007,
+    "Value": 14.9
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2008,
+    "Value": 13.3
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2009,
+    "Value": 13.3
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2010,
+    "Value": 14.6
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2011,
+    "Value": 13.7
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2012,
+    "Value": 11.6
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2013,
+    "Value": 9.2
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2014,
+    "Value": 7.7
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2015,
+    "Value": 6.7
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2016,
+    "Value": 6.7
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2017,
+    "Value": 7.2
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2018,
+    "Value": 6.9
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2019,
+    "Value": 6.3
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2020,
+    "Value": 7.4
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2021,
+    "Value": 6.6
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2022,
+    "Value": 5.2
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2023,
+    "Value": 3.7
+  },
+  {
+    "Country": "Germany",
+    "Year": 2000,
+    "Value": 0.0
+  },
+  {
+    "Country": "Germany",
+    "Year": 2001,
+    "Value": 0.0
+  },
+  {
+    "Country": "Germany",
+    "Year": 2002,
+    "Value": 0.0
+  },
+  {
+    "Country": "Germany",
+    "Year": 2003,
+    "Value": 0.1
+  },
+  {
+    "Country": "Germany",
+    "Year": 2004,
+    "Value": 0.0
+  },
+  {
+    "Country": "Germany",
+    "Year": 2005,
+    "Value": 0.0
+  },
+  {
+    "Country": "Germany",
+    "Year": 2006,
+    "Value": 0.0
+  },
+  {
+    "Country": "Germany",
+    "Year": 2007,
+    "Value": 0.0
+  },
+  {
+    "Country": "Germany",
+    "Year": 2008,
+    "Value": 0.0
+  },
+  {
+    "Country": "Germany",
+    "Year": 2009,
+    "Value": 0.0
+  },
+  {
+    "Country": "Germany",
+    "Year": 2010,
+    "Value": 0.1
+  },
+  {
+    "Country": "Germany",
+    "Year": 2011,
+    "Value": 0.0
+  },
+  {
+    "Country": "Germany",
+    "Year": 2012,
+    "Value": 0.0
+  },
+  {
+    "Country": "Germany",
+    "Year": 2013,
+    "Value": 0.0
+  },
+  {
+    "Country": "Germany",
+    "Year": 2014,
+    "Value": 0.0
+  },
+  {
+    "Country": "Germany",
+    "Year": 2015,
+    "Value": 0.0
+  },
+  {
+    "Country": "Germany",
+    "Year": 2016,
+    "Value": 0.0
+  },
+  {
+    "Country": "Germany",
+    "Year": 2017,
+    "Value": 0.2
+  },
+  {
+    "Country": "Germany",
+    "Year": 2018,
+    "Value": 0.1
+  },
+  {
+    "Country": "Germany",
+    "Year": 2019,
+    "Value": 0.2
+  },
+  {
+    "Country": "Germany",
+    "Year": 2020,
+    "Value": 0.2
+  },
+  {
+    "Country": "Ghana",
+    "Year": 2005,
+    "Value": 38.7
+  },
+  {
+    "Country": "Ghana",
+    "Year": 2012,
+    "Value": 25.8
+  },
+  {
+    "Country": "Ghana",
+    "Year": 2016,
+    "Value": 25.0
+  },
+  {
+    "Country": "Greece",
+    "Year": 2000,
+    "Value": 0.5
+  },
+  {
+    "Country": "Greece",
+    "Year": 2003,
+    "Value": 0.5
+  },
+  {
+    "Country": "Greece",
+    "Year": 2004,
+    "Value": 0.7
+  },
+  {
+    "Country": "Greece",
+    "Year": 2005,
+    "Value": 0.3
+  },
+  {
+    "Country": "Greece",
+    "Year": 2006,
+    "Value": 0.5
+  },
+  {
+    "Country": "Greece",
+    "Year": 2007,
+    "Value": 0.5
+  },
+  {
+    "Country": "Greece",
+    "Year": 2008,
+    "Value": 0.3
+  },
+  {
+    "Country": "Greece",
+    "Year": 2009,
+    "Value": 0.6
+  },
+  {
+    "Country": "Greece",
+    "Year": 2010,
+    "Value": 0.9
+  },
+  {
+    "Country": "Greece",
+    "Year": 2011,
+    "Value": 1.2
+  },
+  {
+    "Country": "Greece",
+    "Year": 2012,
+    "Value": 1.4
+  },
+  {
+    "Country": "Greece",
+    "Year": 2013,
+    "Value": 1.0
+  },
+  {
+    "Country": "Greece",
+    "Year": 2014,
+    "Value": 1.4
+  },
+  {
+    "Country": "Greece",
+    "Year": 2015,
+    "Value": 1.4
+  },
+  {
+    "Country": "Greece",
+    "Year": 2016,
+    "Value": 1.0
+  },
+  {
+    "Country": "Greece",
+    "Year": 2017,
+    "Value": 0.8
+  },
+  {
+    "Country": "Greece",
+    "Year": 2018,
+    "Value": 0.2
+  },
+  {
+    "Country": "Greece",
+    "Year": 2019,
+    "Value": 0.7
+  },
+  {
+    "Country": "Greece",
+    "Year": 2020,
+    "Value": 0.8
+  },
+  {
+    "Country": "Greece",
+    "Year": 2021,
+    "Value": 0.6
+  },
+  {
+    "Country": "Greece",
+    "Year": 2022,
+    "Value": 0.4
+  },
+  {
+    "Country": "Grenada",
+    "Year": 2018,
+    "Value": 0.5
+  },
+  {
+    "Country": "Guatemala",
+    "Year": 2000,
+    "Value": 5.7
+  },
+  {
+    "Country": "Guatemala",
+    "Year": 2006,
+    "Value": 6.6
+  },
+  {
+    "Country": "Guatemala",
+    "Year": 2014,
+    "Value": 5.2
+  },
+  {
+    "Country": "Guatemala",
+    "Year": 2023,
+    "Value": 6.3
+  },
+  {
+    "Country": "Guinea",
+    "Year": 2002,
+    "Value": 30.4
+  },
+  {
+    "Country": "Guinea",
+    "Year": 2007,
+    "Value": 26.1
+  },
+  {
+    "Country": "Guinea",
+    "Year": 2012,
+    "Value": 13.1
+  },
+  {
+    "Country": "Guinea",
+    "Year": 2018,
+    "Value": 7.4
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Year": 2002,
+    "Value": 41.3
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Year": 2010,
+    "Value": 50.9
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Year": 2018,
+    "Value": 20.9
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Year": 2021,
+    "Value": 23.1
+  },
+  {
+    "Country": "Haiti",
+    "Year": 2001,
+    "Value": 54.0
+  },
+  {
+    "Country": "Haiti",
+    "Year": 2012,
+    "Value": 24.9
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2001,
+    "Value": 17.1
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2002,
+    "Value": 19.1
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2003,
+    "Value": 22.6
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2004,
+    "Value": 21.9
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2005,
+    "Value": 21.7
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2006,
+    "Value": 18.5
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2007,
+    "Value": 14.1
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2008,
+    "Value": 13.6
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2009,
+    "Value": 11.3
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2010,
+    "Value": 12.4
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2011,
+    "Value": 13.0
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2012,
+    "Value": 15.6
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2013,
+    "Value": 13.2
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2014,
+    "Value": 12.5
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2015,
+    "Value": 12.2
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2016,
+    "Value": 13.0
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2017,
+    "Value": 12.4
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2018,
+    "Value": 12.5
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2019,
+    "Value": 11.8
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2023,
+    "Value": 11.3
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2000,
+    "Value": 0.2
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2001,
+    "Value": 0.1
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2002,
+    "Value": 0.0
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2003,
+    "Value": 0.2
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2004,
+    "Value": 0.2
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2005,
+    "Value": 0.8
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2006,
+    "Value": 0.2
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2007,
+    "Value": 0.2
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2008,
+    "Value": 0.1
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2009,
+    "Value": 0.1
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2010,
+    "Value": 0.1
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2011,
+    "Value": 0.1
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2012,
+    "Value": 0.4
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2013,
+    "Value": 0.3
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2014,
+    "Value": 0.7
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2015,
+    "Value": 0.7
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2016,
+    "Value": 1.2
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2017,
+    "Value": 0.7
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2018,
+    "Value": 0.3
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2019,
+    "Value": 0.4
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2020,
+    "Value": 0.4
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2021,
+    "Value": 0.4
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2022,
+    "Value": 0.9
+  },
+  {
+    "Country": "Iceland",
+    "Year": 2003,
+    "Value": 0.0
+  },
+  {
+    "Country": "Iceland",
+    "Year": 2004,
+    "Value": 0.1
+  },
+  {
+    "Country": "Iceland",
+    "Year": 2005,
+    "Value": 0.0
+  },
+  {
+    "Country": "Iceland",
+    "Year": 2006,
+    "Value": 0.1
+  },
+  {
+    "Country": "Iceland",
+    "Year": 2007,
+    "Value": 0.1
+  },
+  {
+    "Country": "Iceland",
+    "Year": 2008,
+    "Value": 0.1
+  },
+  {
+    "Country": "Iceland",
+    "Year": 2009,
+    "Value": 0.1
+  },
+  {
+    "Country": "Iceland",
+    "Year": 2010,
+    "Value": 0.1
+  },
+  {
+    "Country": "Iceland",
+    "Year": 2011,
+    "Value": 0.1
+  },
+  {
+    "Country": "Iceland",
+    "Year": 2012,
+    "Value": 0.0
+  },
+  {
+    "Country": "Iceland",
+    "Year": 2013,
+    "Value": 0.1
+  },
+  {
+    "Country": "Iceland",
+    "Year": 2014,
+    "Value": 0.0
+  },
+  {
+    "Country": "Iceland",
+    "Year": 2015,
+    "Value": 0.0
+  },
+  {
+    "Country": "Iceland",
+    "Year": 2016,
+    "Value": 0.0
+  },
+  {
+    "Country": "Iceland",
+    "Year": 2017,
+    "Value": 0.0
+  },
+  {
+    "Country": "Iceland",
+    "Year": 2018,
+    "Value": 0.2
+  },
+  {
+    "Country": "India",
+    "Year": 2004,
+    "Value": 25.6
+  },
+  {
+    "Country": "India",
+    "Year": 2009,
+    "Value": 20.0
+  },
+  {
+    "Country": "India",
+    "Year": 2011,
+    "Value": 16.1
+  },
+  {
+    "Country": "India",
+    "Year": 2022,
+    "Value": 4.4
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2000,
+    "Value": 37.2
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2001,
+    "Value": 35.1
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2002,
+    "Value": 25.9
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2003,
+    "Value": 25.4
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2004,
+    "Value": 25.8
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2005,
+    "Value": 23.3
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2006,
+    "Value": 26.7
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2007,
+    "Value": 23.3
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2008,
+    "Value": 21.6
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2009,
+    "Value": 21.7
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2010,
+    "Value": 19.2
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2011,
+    "Value": 17.5
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2012,
+    "Value": 15.1
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2013,
+    "Value": 15.4
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2014,
+    "Value": 14.5
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2015,
+    "Value": 12.7
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2016,
+    "Value": 10.9
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2017,
+    "Value": 9.1
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2018,
+    "Value": 7.8
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2019,
+    "Value": 6.9
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2020,
+    "Value": 6.3
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2021,
+    "Value": 5.7
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2022,
+    "Value": 5.3
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2023,
+    "Value": 4.8
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2024,
+    "Value": 4.1
+  },
+  {
+    "Country": "Iran, Islamic Rep.",
+    "Year": 2005,
+    "Value": 2.8
+  },
+  {
+    "Country": "Iran, Islamic Rep.",
+    "Year": 2006,
+    "Value": 2.9
+  },
+  {
+    "Country": "Iran, Islamic Rep.",
+    "Year": 2009,
+    "Value": 3.1
+  },
+  {
+    "Country": "Iran, Islamic Rep.",
+    "Year": 2011,
+    "Value": 1.7
+  },
+  {
+    "Country": "Iran, Islamic Rep.",
+    "Year": 2012,
+    "Value": 1.3
+  },
+  {
+    "Country": "Iran, Islamic Rep.",
+    "Year": 2013,
+    "Value": 1.4
+  },
+  {
+    "Country": "Iran, Islamic Rep.",
+    "Year": 2014,
+    "Value": 2.2
+  },
+  {
+    "Country": "Iran, Islamic Rep.",
+    "Year": 2015,
+    "Value": 2.0
+  },
+  {
+    "Country": "Iran, Islamic Rep.",
+    "Year": 2016,
+    "Value": 2.0
+  },
+  {
+    "Country": "Iran, Islamic Rep.",
+    "Year": 2017,
+    "Value": 1.8
+  },
+  {
+    "Country": "Iran, Islamic Rep.",
+    "Year": 2018,
+    "Value": 2.2
+  },
+  {
+    "Country": "Iran, Islamic Rep.",
+    "Year": 2019,
+    "Value": 2.8
+  },
+  {
+    "Country": "Iran, Islamic Rep.",
+    "Year": 2020,
+    "Value": 3.0
+  },
+  {
+    "Country": "Iran, Islamic Rep.",
+    "Year": 2021,
+    "Value": 2.5
+  },
+  {
+    "Country": "Iran, Islamic Rep.",
+    "Year": 2022,
+    "Value": 1.9
+  },
+  {
+    "Country": "Iran, Islamic Rep.",
+    "Year": 2023,
+    "Value": 1.7
+  },
+  {
+    "Country": "Iraq",
+    "Year": 2006,
+    "Value": 0.5
+  },
+  {
+    "Country": "Iraq",
+    "Year": 2012,
+    "Value": 0.5
+  },
+  {
+    "Country": "Iraq",
+    "Year": 2023,
+    "Value": 0.4
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2000,
+    "Value": 0.1
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2002,
+    "Value": 0.2
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2003,
+    "Value": 0.1
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2004,
+    "Value": 0.1
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2005,
+    "Value": 0.0
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2006,
+    "Value": 0.3
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2007,
+    "Value": 0.1
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2008,
+    "Value": 0.2
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2009,
+    "Value": 0.5
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2010,
+    "Value": 0.5
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Value": 0.5
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2012,
+    "Value": 0.3
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2013,
+    "Value": 0.6
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2014,
+    "Value": 0.4
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2015,
+    "Value": 0.3
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2016,
+    "Value": 0.2
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2017,
+    "Value": 0.2
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2018,
+    "Value": 0.0
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2019,
+    "Value": 0.0
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2020,
+    "Value": 0.1
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2021,
+    "Value": 0.1
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2022,
+    "Value": 0.1
+  },
+  {
+    "Country": "Israel",
+    "Year": 2001,
+    "Value": 0.2
+  },
+  {
+    "Country": "Israel",
+    "Year": 2002,
+    "Value": 0.7
+  },
+  {
+    "Country": "Israel",
+    "Year": 2003,
+    "Value": 0.7
+  },
+  {
+    "Country": "Israel",
+    "Year": 2004,
+    "Value": 0.7
+  },
+  {
+    "Country": "Israel",
+    "Year": 2005,
+    "Value": 0.7
+  },
+  {
+    "Country": "Israel",
+    "Year": 2006,
+    "Value": 0.4
+  },
+  {
+    "Country": "Israel",
+    "Year": 2007,
+    "Value": 0.5
+  },
+  {
+    "Country": "Israel",
+    "Year": 2008,
+    "Value": 0.5
+  },
+  {
+    "Country": "Israel",
+    "Year": 2009,
+    "Value": 0.6
+  },
+  {
+    "Country": "Israel",
+    "Year": 2010,
+    "Value": 0.5
+  },
+  {
+    "Country": "Israel",
+    "Year": 2011,
+    "Value": 0.4
+  },
+  {
+    "Country": "Israel",
+    "Year": 2012,
+    "Value": 0.6
+  },
+  {
+    "Country": "Israel",
+    "Year": 2013,
+    "Value": 0.4
+  },
+  {
+    "Country": "Israel",
+    "Year": 2014,
+    "Value": 0.5
+  },
+  {
+    "Country": "Israel",
+    "Year": 2015,
+    "Value": 0.4
+  },
+  {
+    "Country": "Israel",
+    "Year": 2016,
+    "Value": 0.3
+  },
+  {
+    "Country": "Israel",
+    "Year": 2017,
+    "Value": 0.5
+  },
+  {
+    "Country": "Israel",
+    "Year": 2018,
+    "Value": 0.4
+  },
+  {
+    "Country": "Israel",
+    "Year": 2019,
+    "Value": 0.6
+  },
+  {
+    "Country": "Israel",
+    "Year": 2020,
+    "Value": 0.5
+  },
+  {
+    "Country": "Israel",
+    "Year": 2021,
+    "Value": 0.4
+  },
+  {
+    "Country": "Italy",
+    "Year": 2000,
+    "Value": 1.2
+  },
+  {
+    "Country": "Italy",
+    "Year": 2002,
+    "Value": 1.4
+  },
+  {
+    "Country": "Italy",
+    "Year": 2003,
+    "Value": 0.7
+  },
+  {
+    "Country": "Italy",
+    "Year": 2004,
+    "Value": 0.6
+  },
+  {
+    "Country": "Italy",
+    "Year": 2005,
+    "Value": 0.6
+  },
+  {
+    "Country": "Italy",
+    "Year": 2006,
+    "Value": 0.6
+  },
+  {
+    "Country": "Italy",
+    "Year": 2007,
+    "Value": 0.6
+  },
+  {
+    "Country": "Italy",
+    "Year": 2008,
+    "Value": 0.6
+  },
+  {
+    "Country": "Italy",
+    "Year": 2009,
+    "Value": 0.8
+  },
+  {
+    "Country": "Italy",
+    "Year": 2010,
+    "Value": 1.1
+  },
+  {
+    "Country": "Italy",
+    "Year": 2011,
+    "Value": 1.0
+  },
+  {
+    "Country": "Italy",
+    "Year": 2012,
+    "Value": 1.1
+  },
+  {
+    "Country": "Italy",
+    "Year": 2013,
+    "Value": 1.3
+  },
+  {
+    "Country": "Italy",
+    "Year": 2014,
+    "Value": 1.1
+  },
+  {
+    "Country": "Italy",
+    "Year": 2015,
+    "Value": 1.7
+  },
+  {
+    "Country": "Italy",
+    "Year": 2016,
+    "Value": 1.5
+  },
+  {
+    "Country": "Italy",
+    "Year": 2017,
+    "Value": 1.3
+  },
+  {
+    "Country": "Italy",
+    "Year": 2018,
+    "Value": 1.3
+  },
+  {
+    "Country": "Italy",
+    "Year": 2019,
+    "Value": 0.9
+  },
+  {
+    "Country": "Italy",
+    "Year": 2020,
+    "Value": 0.8
+  },
+  {
+    "Country": "Italy",
+    "Year": 2021,
+    "Value": 0.7
+  },
+  {
+    "Country": "Italy",
+    "Year": 2022,
+    "Value": 0.6
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2002,
+    "Value": 4.2
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2004,
+    "Value": 3.1
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2018,
+    "Value": 0.4
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2021,
+    "Value": 1.1
+  },
+  {
+    "Country": "Japan",
+    "Year": 2008,
+    "Value": 0.8
+  },
+  {
+    "Country": "Japan",
+    "Year": 2009,
+    "Value": 0.7
+  },
+  {
+    "Country": "Japan",
+    "Year": 2010,
+    "Value": 0.4
+  },
+  {
+    "Country": "Japan",
+    "Year": 2011,
+    "Value": 0.4
+  },
+  {
+    "Country": "Japan",
+    "Year": 2012,
+    "Value": 1.0
+  },
+  {
+    "Country": "Japan",
+    "Year": 2013,
+    "Value": 0.7
+  },
+  {
+    "Country": "Japan",
+    "Year": 2014,
+    "Value": 0.5
+  },
+  {
+    "Country": "Japan",
+    "Year": 2015,
+    "Value": 0.2
+  },
+  {
+    "Country": "Japan",
+    "Year": 2016,
+    "Value": 0.5
+  },
+  {
+    "Country": "Japan",
+    "Year": 2017,
+    "Value": 0.5
+  },
+  {
+    "Country": "Japan",
+    "Year": 2018,
+    "Value": 0.8
+  },
+  {
+    "Country": "Japan",
+    "Year": 2019,
+    "Value": 0.9
+  },
+  {
+    "Country": "Japan",
+    "Year": 2020,
+    "Value": 0.8
+  },
+  {
+    "Country": "Jordan",
+    "Year": 2002,
+    "Value": 0.8
+  },
+  {
+    "Country": "Jordan",
+    "Year": 2006,
+    "Value": 0.3
+  },
+  {
+    "Country": "Jordan",
+    "Year": 2008,
+    "Value": 0.2
+  },
+  {
+    "Country": "Jordan",
+    "Year": 2010,
+    "Value": 0.1
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2001,
+    "Value": 12.6
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2002,
+    "Value": 9.9
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2003,
+    "Value": 7.7
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2004,
+    "Value": 5.1
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2005,
+    "Value": 9.0
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2006,
+    "Value": 1.8
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2007,
+    "Value": 0.8
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2008,
+    "Value": 0.6
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2009,
+    "Value": 0.7
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2010,
+    "Value": 0.5
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2011,
+    "Value": 0.2
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2012,
+    "Value": 0.1
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2013,
+    "Value": 0.1
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2014,
+    "Value": 0.1
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2015,
+    "Value": 0.1
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2016,
+    "Value": 0.2
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2017,
+    "Value": 0.1
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2018,
+    "Value": 0.1
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2019,
+    "Value": 0.1
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2020,
+    "Value": 0.1
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2021,
+    "Value": 0.0
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2005,
+    "Value": 27.2
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2015,
+    "Value": 22.2
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2020,
+    "Value": 25.8
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2021,
+    "Value": 26.6
+  },
+  {
+    "Country": "Kiribati",
+    "Year": 2006,
+    "Value": 13.5
+  },
+  {
+    "Country": "Kiribati",
+    "Year": 2019,
+    "Value": 4.5
+  },
+  {
+    "Country": "Korea, Rep.",
+    "Year": 2006,
+    "Value": 0.3
+  },
+  {
+    "Country": "Korea, Rep.",
+    "Year": 2008,
+    "Value": 0.3
+  },
+  {
+    "Country": "Korea, Rep.",
+    "Year": 2010,
+    "Value": 0.4
+  },
+  {
+    "Country": "Korea, Rep.",
+    "Year": 2012,
+    "Value": 0.3
+  },
+  {
+    "Country": "Korea, Rep.",
+    "Year": 2014,
+    "Value": 0.2
+  },
+  {
+    "Country": "Korea, Rep.",
+    "Year": 2016,
+    "Value": 0.1
+  },
+  {
+    "Country": "Korea, Rep.",
+    "Year": 2017,
+    "Value": 0.1
+  },
+  {
+    "Country": "Korea, Rep.",
+    "Year": 2018,
+    "Value": 0.1
+  },
+  {
+    "Country": "Korea, Rep.",
+    "Year": 2019,
+    "Value": 0.1
+  },
+  {
+    "Country": "Korea, Rep.",
+    "Year": 2020,
+    "Value": 0.1
+  },
+  {
+    "Country": "Korea, Rep.",
+    "Year": 2021,
+    "Value": 0.1
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2003,
+    "Value": 7.9
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2005,
+    "Value": 8.9
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2006,
+    "Value": 8.4
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2009,
+    "Value": 6.8
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2010,
+    "Value": 6.7
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2011,
+    "Value": 4.7
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2012,
+    "Value": 2.7
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2013,
+    "Value": 1.7
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2014,
+    "Value": 2.4
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2015,
+    "Value": 1.6
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2016,
+    "Value": 1.8
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2017,
+    "Value": 11.1
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2018,
+    "Value": 14.6
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2019,
+    "Value": 7.5
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2020,
+    "Value": 12.7
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2021,
+    "Value": 17.1
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2000,
+    "Value": 38.3
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2001,
+    "Value": 35.0
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2002,
+    "Value": 33.8
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2003,
+    "Value": 30.7
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2004,
+    "Value": 18.7
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2005,
+    "Value": 20.9
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2006,
+    "Value": 15.0
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2007,
+    "Value": 14.1
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2008,
+    "Value": 8.9
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2009,
+    "Value": 6.9
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2010,
+    "Value": 8.5
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2011,
+    "Value": 6.9
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2012,
+    "Value": 7.5
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2013,
+    "Value": 9.0
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2014,
+    "Value": 6.2
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2015,
+    "Value": 7.8
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2016,
+    "Value": 6.1
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2017,
+    "Value": 6.3
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2018,
+    "Value": 4.9
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2019,
+    "Value": 4.3
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2020,
+    "Value": 6.8
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2021,
+    "Value": 4.5
+  },
+  {
+    "Country": "Kyrgyz Republic",
+    "Year": 2022,
+    "Value": 4.0
+  },
+  {
+    "Country": "Lao PDR",
+    "Year": 2002,
+    "Value": 24.4
+  },
+  {
+    "Country": "Lao PDR",
+    "Year": 2007,
+    "Value": 20.7
+  },
+  {
+    "Country": "Lao PDR",
+    "Year": 2012,
+    "Value": 12.9
+  },
+  {
+    "Country": "Lao PDR",
+    "Year": 2018,
+    "Value": 9.7
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2002,
+    "Value": 1.1
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2003,
+    "Value": 0.9
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2004,
+    "Value": 2.6
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2005,
+    "Value": 2.3
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2006,
+    "Value": 1.4
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2007,
+    "Value": 0.7
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2008,
+    "Value": 1.1
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2009,
+    "Value": 1.8
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2010,
+    "Value": 1.7
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2011,
+    "Value": 1.2
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2012,
+    "Value": 1.1
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2013,
+    "Value": 1.2
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2014,
+    "Value": 0.8
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2015,
+    "Value": 0.7
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2016,
+    "Value": 0.6
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2017,
+    "Value": 0.7
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2018,
+    "Value": 0.4
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2019,
+    "Value": 0.3
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2020,
+    "Value": 0.4
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2021,
+    "Value": 0.4
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2022,
+    "Value": 0.3
+  },
+  {
+    "Country": "Lebanon",
+    "Year": 2011,
+    "Value": 0.0
+  },
+  {
+    "Country": "Lesotho",
+    "Year": 2002,
+    "Value": 53.6
+  },
+  {
+    "Country": "Lesotho",
+    "Year": 2017,
+    "Value": 26.3
+  },
+  {
+    "Country": "Liberia",
+    "Year": 2007,
+    "Value": 37.2
+  },
+  {
+    "Country": "Liberia",
+    "Year": 2014,
+    "Value": 18.4
+  },
+  {
+    "Country": "Liberia",
+    "Year": 2016,
+    "Value": 19.9
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2000,
+    "Value": 1.0
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2001,
+    "Value": 1.2
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2002,
+    "Value": 1.1
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2003,
+    "Value": 0.4
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2004,
+    "Value": 2.8
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2005,
+    "Value": 1.9
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2006,
+    "Value": 1.3
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2007,
+    "Value": 1.1
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2008,
+    "Value": 1.3
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2009,
+    "Value": 2.0
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2010,
+    "Value": 1.6
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2011,
+    "Value": 0.8
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2012,
+    "Value": 0.9
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2013,
+    "Value": 0.9
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2014,
+    "Value": 1.2
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2015,
+    "Value": 0.8
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2016,
+    "Value": 1.1
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2017,
+    "Value": 1.0
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2018,
+    "Value": 0.7
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2019,
+    "Value": 0.4
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2020,
+    "Value": 0.3
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Value": 0.2
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2022,
+    "Value": 0.6
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2000,
+    "Value": 0.0
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2001,
+    "Value": 0.0
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2002,
+    "Value": 0.0
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2003,
+    "Value": 0.1
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2004,
+    "Value": 0.0
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2005,
+    "Value": 0.0
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2006,
+    "Value": 0.0
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2007,
+    "Value": 0.0
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2008,
+    "Value": 0.0
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2009,
+    "Value": 0.0
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2010,
+    "Value": 0.0
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2011,
+    "Value": 0.1
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2012,
+    "Value": 0.0
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2013,
+    "Value": 0.1
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2014,
+    "Value": 0.1
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2015,
+    "Value": 0.3
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2016,
+    "Value": 0.1
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2017,
+    "Value": 0.2
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2018,
+    "Value": 0.2
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2019,
+    "Value": 0.1
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2020,
+    "Value": 0.0
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2021,
+    "Value": 0.1
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2022,
+    "Value": 0.1
+  },
+  {
+    "Country": "Madagascar",
+    "Year": 2001,
+    "Value": 56.3
+  },
+  {
+    "Country": "Madagascar",
+    "Year": 2005,
+    "Value": 56.4
+  },
+  {
+    "Country": "Madagascar",
+    "Year": 2010,
+    "Value": 61.8
+  },
+  {
+    "Country": "Madagascar",
+    "Year": 2012,
+    "Value": 63.2
+  },
+  {
+    "Country": "Malawi",
+    "Year": 2004,
+    "Value": 46.4
+  },
+  {
+    "Country": "Malawi",
+    "Year": 2010,
+    "Value": 47.7
+  },
+  {
+    "Country": "Malawi",
+    "Year": 2016,
+    "Value": 44.3
+  },
+  {
+    "Country": "Malawi",
+    "Year": 2019,
+    "Value": 47.6
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2003,
+    "Value": 2.1
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2006,
+    "Value": 1.1
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2008,
+    "Value": 1.2
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2011,
+    "Value": 0.3
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2013,
+    "Value": 0.1
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2015,
+    "Value": 0.1
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2018,
+    "Value": 0.0
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2021,
+    "Value": 0.0
+  },
+  {
+    "Country": "Maldives",
+    "Year": 2002,
+    "Value": 12.1
+  },
+  {
+    "Country": "Maldives",
+    "Year": 2009,
+    "Value": 7.9
+  },
+  {
+    "Country": "Maldives",
+    "Year": 2016,
+    "Value": 0.1
+  },
+  {
+    "Country": "Maldives",
+    "Year": 2019,
+    "Value": 0.0
+  },
+  {
+    "Country": "Mali",
+    "Year": 2001,
+    "Value": 43.8
+  },
+  {
+    "Country": "Mali",
+    "Year": 2006,
+    "Value": 39.0
+  },
+  {
+    "Country": "Mali",
+    "Year": 2009,
+    "Value": 37.7
+  },
+  {
+    "Country": "Mali",
+    "Year": 2018,
+    "Value": 16.8
+  },
+  {
+    "Country": "Mali",
+    "Year": 2021,
+    "Value": 20.8
+  },
+  {
+    "Country": "Malta",
+    "Year": 2006,
+    "Value": 0.3
+  },
+  {
+    "Country": "Malta",
+    "Year": 2007,
+    "Value": 0.4
+  },
+  {
+    "Country": "Malta",
+    "Year": 2008,
+    "Value": 0.1
+  },
+  {
+    "Country": "Malta",
+    "Year": 2009,
+    "Value": 0.3
+  },
+  {
+    "Country": "Malta",
+    "Year": 2010,
+    "Value": 0.2
+  },
+  {
+    "Country": "Malta",
+    "Year": 2011,
+    "Value": 0.2
+  },
+  {
+    "Country": "Malta",
+    "Year": 2012,
+    "Value": 0.1
+  },
+  {
+    "Country": "Malta",
+    "Year": 2013,
+    "Value": 0.0
+  },
+  {
+    "Country": "Malta",
+    "Year": 2014,
+    "Value": 0.0
+  },
+  {
+    "Country": "Malta",
+    "Year": 2015,
+    "Value": 0.1
+  },
+  {
+    "Country": "Malta",
+    "Year": 2016,
+    "Value": 0.1
+  },
+  {
+    "Country": "Malta",
+    "Year": 2017,
+    "Value": 0.1
+  },
+  {
+    "Country": "Malta",
+    "Year": 2018,
+    "Value": 0.1
+  },
+  {
+    "Country": "Malta",
+    "Year": 2019,
+    "Value": 0.2
+  },
+  {
+    "Country": "Malta",
+    "Year": 2020,
+    "Value": 0.3
+  },
+  {
+    "Country": "Malta",
+    "Year": 2021,
+    "Value": 0.1
+  },
+  {
+    "Country": "Malta",
+    "Year": 2022,
+    "Value": 0.1
+  },
+  {
+    "Country": "Marshall Islands",
+    "Year": 2019,
+    "Value": 1.5
+  },
+  {
+    "Country": "Mauritania",
+    "Year": 2000,
+    "Value": 18.4
+  },
+  {
+    "Country": "Mauritania",
+    "Year": 2004,
+    "Value": 17.0
+  },
+  {
+    "Country": "Mauritania",
+    "Year": 2008,
+    "Value": 11.8
+  },
+  {
+    "Country": "Mauritania",
+    "Year": 2014,
+    "Value": 7.4
+  },
+  {
+    "Country": "Mauritania",
+    "Year": 2019,
+    "Value": 6.8
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2006,
+    "Value": 0.8
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2012,
+    "Value": 0.8
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2017,
+    "Value": 0.5
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2000,
+    "Value": 10.2
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2002,
+    "Value": 8.0
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2004,
+    "Value": 7.2
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2005,
+    "Value": 7.4
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2006,
+    "Value": 5.7
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2008,
+    "Value": 6.4
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Value": 5.4
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2012,
+    "Value": 4.8
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2014,
+    "Value": 4.7
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2016,
+    "Value": 2.9
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2018,
+    "Value": 2.6
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2020,
+    "Value": 2.7
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2022,
+    "Value": 1.6
+  },
+  {
+    "Country": "Micronesia, Fed. Sts.",
+    "Year": 2005,
+    "Value": 9.2
+  },
+  {
+    "Country": "Micronesia, Fed. Sts.",
+    "Year": 2013,
+    "Value": 16.4
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2000,
+    "Value": 24.5
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2001,
+    "Value": 19.4
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2002,
+    "Value": 11.9
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2003,
+    "Value": 6.5
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2004,
+    "Value": 7.3
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2005,
+    "Value": 10.3
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2006,
+    "Value": 2.3
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2007,
+    "Value": 1.2
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2008,
+    "Value": 1.4
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2009,
+    "Value": 1.1
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2010,
+    "Value": 0.7
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2011,
+    "Value": 0.5
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2012,
+    "Value": 0.4
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2013,
+    "Value": 0.2
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2014,
+    "Value": 0.1
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2015,
+    "Value": 0.1
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2016,
+    "Value": 0.2
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2017,
+    "Value": 0.1
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2018,
+    "Value": 0.0
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2019,
+    "Value": 0.1
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2021,
+    "Value": 0.1
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2022,
+    "Value": 0.0
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2002,
+    "Value": 11.4
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2007,
+    "Value": 3.0
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2010,
+    "Value": 2.5
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2011,
+    "Value": 1.6
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2012,
+    "Value": 1.0
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2014,
+    "Value": 0.7
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2016,
+    "Value": 1.5
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2018,
+    "Value": 1.3
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2022,
+    "Value": 0.4
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2005,
+    "Value": 0.3
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2006,
+    "Value": 0.2
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2007,
+    "Value": 0.2
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2008,
+    "Value": 0.2
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2009,
+    "Value": 0.1
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2010,
+    "Value": 0.1
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2011,
+    "Value": 0.3
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2012,
+    "Value": 3.7
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2013,
+    "Value": 3.2
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2014,
+    "Value": 2.5
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2015,
+    "Value": 2.3
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2016,
+    "Value": 2.6
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2017,
+    "Value": 3.2
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2018,
+    "Value": 2.6
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2019,
+    "Value": 1.6
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2020,
+    "Value": 1.7
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2021,
+    "Value": 1.7
+  },
+  {
+    "Country": "Morocco",
+    "Year": 2000,
+    "Value": 10.4
+  },
+  {
+    "Country": "Morocco",
+    "Year": 2006,
+    "Value": 6.0
+  },
+  {
+    "Country": "Morocco",
+    "Year": 2013,
+    "Value": 2.6
+  },
+  {
+    "Country": "Mozambique",
+    "Year": 2002,
+    "Value": 62.3
+  },
+  {
+    "Country": "Mozambique",
+    "Year": 2008,
+    "Value": 55.0
+  },
+  {
+    "Country": "Mozambique",
+    "Year": 2014,
+    "Value": 50.1
+  },
+  {
+    "Country": "Mozambique",
+    "Year": 2019,
+    "Value": 57.8
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2015,
+    "Value": 11.6
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2017,
+    "Value": 6.8
+  },
+  {
+    "Country": "Namibia",
+    "Year": 2003,
+    "Value": 29.3
+  },
+  {
+    "Country": "Namibia",
+    "Year": 2009,
+    "Value": 23.1
+  },
+  {
+    "Country": "Namibia",
+    "Year": 2015,
+    "Value": 14.4
+  },
+  {
+    "Country": "Nauru",
+    "Year": 2012,
+    "Value": 5.4
+  },
+  {
+    "Country": "Nepal",
+    "Year": 2003,
+    "Value": 32.8
+  },
+  {
+    "Country": "Nepal",
+    "Year": 2010,
+    "Value": 12.7
+  },
+  {
+    "Country": "Nepal",
+    "Year": 2022,
+    "Value": 1.7
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2004,
+    "Value": 0.2
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2005,
+    "Value": 0.1
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2006,
+    "Value": 0.0
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2007,
+    "Value": 0.0
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2008,
+    "Value": 0.1
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2009,
+    "Value": 0.1
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2010,
+    "Value": 0.0
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2011,
+    "Value": 0.1
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2012,
+    "Value": 0.1
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2013,
+    "Value": 0.1
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2014,
+    "Value": 0.1
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2015,
+    "Value": 0.0
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2016,
+    "Value": 0.0
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2017,
+    "Value": 0.1
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2018,
+    "Value": 0.1
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2019,
+    "Value": 0.1
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2020,
+    "Value": 0.0
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2021,
+    "Value": 0.1
+  },
+  {
+    "Country": "Nicaragua",
+    "Year": 2001,
+    "Value": 16.6
+  },
+  {
+    "Country": "Nicaragua",
+    "Year": 2005,
+    "Value": 10.2
+  },
+  {
+    "Country": "Nicaragua",
+    "Year": 2009,
+    "Value": 8.6
+  },
+  {
+    "Country": "Nicaragua",
+    "Year": 2014,
+    "Value": 4.4
+  },
+  {
+    "Country": "Niger",
+    "Year": 2005,
+    "Value": 57.6
+  },
+  {
+    "Country": "Niger",
+    "Year": 2007,
+    "Value": 53.5
+  },
+  {
+    "Country": "Niger",
+    "Year": 2011,
+    "Value": 39.6
+  },
+  {
+    "Country": "Niger",
+    "Year": 2014,
+    "Value": 36.3
+  },
+  {
+    "Country": "Niger",
+    "Year": 2018,
+    "Value": 34.0
+  },
+  {
+    "Country": "Niger",
+    "Year": 2021,
+    "Value": 33.8
+  },
+  {
+    "Country": "Nigeria",
+    "Year": 2003,
+    "Value": 32.1
+  },
+  {
+    "Country": "Nigeria",
+    "Year": 2010,
+    "Value": 22.5
+  },
+  {
+    "Country": "Nigeria",
+    "Year": 2012,
+    "Value": 21.9
+  },
+  {
+    "Country": "Nigeria",
+    "Year": 2015,
+    "Value": 21.0
+  },
+  {
+    "Country": "Nigeria",
+    "Year": 2018,
+    "Value": 20.3
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2000,
+    "Value": 6.3
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2002,
+    "Value": 1.9
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2003,
+    "Value": 1.9
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2004,
+    "Value": 1.0
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2005,
+    "Value": 2.0
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2006,
+    "Value": 2.8
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2008,
+    "Value": 1.1
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2009,
+    "Value": 8.2
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2010,
+    "Value": 9.2
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2011,
+    "Value": 7.4
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2012,
+    "Value": 6.0
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2013,
+    "Value": 4.6
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2014,
+    "Value": 4.1
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2015,
+    "Value": 4.5
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2016,
+    "Value": 3.8
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2017,
+    "Value": 3.8
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2018,
+    "Value": 2.8
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2019,
+    "Value": 2.7
+  },
+  {
+    "Country": "Norway",
+    "Year": 2000,
+    "Value": 0.2
+  },
+  {
+    "Country": "Norway",
+    "Year": 2003,
+    "Value": 0.2
+  },
+  {
+    "Country": "Norway",
+    "Year": 2004,
+    "Value": 0.2
+  },
+  {
+    "Country": "Norway",
+    "Year": 2005,
+    "Value": 0.2
+  },
+  {
+    "Country": "Norway",
+    "Year": 2006,
+    "Value": 0.1
+  },
+  {
+    "Country": "Norway",
+    "Year": 2007,
+    "Value": 0.1
+  },
+  {
+    "Country": "Norway",
+    "Year": 2008,
+    "Value": 0.2
+  },
+  {
+    "Country": "Norway",
+    "Year": 2009,
+    "Value": 0.1
+  },
+  {
+    "Country": "Norway",
+    "Year": 2010,
+    "Value": 0.1
+  },
+  {
+    "Country": "Norway",
+    "Year": 2011,
+    "Value": 0.1
+  },
+  {
+    "Country": "Norway",
+    "Year": 2012,
+    "Value": 0.1
+  },
+  {
+    "Country": "Norway",
+    "Year": 2013,
+    "Value": 0.1
+  },
+  {
+    "Country": "Norway",
+    "Year": 2014,
+    "Value": 0.1
+  },
+  {
+    "Country": "Norway",
+    "Year": 2015,
+    "Value": 0.1
+  },
+  {
+    "Country": "Norway",
+    "Year": 2016,
+    "Value": 0.2
+  },
+  {
+    "Country": "Norway",
+    "Year": 2017,
+    "Value": 0.2
+  },
+  {
+    "Country": "Norway",
+    "Year": 2018,
+    "Value": 0.2
+  },
+  {
+    "Country": "Norway",
+    "Year": 2019,
+    "Value": 0.2
+  },
+  {
+    "Country": "Norway",
+    "Year": 2020,
+    "Value": 0.3
+  },
+  {
+    "Country": "Norway",
+    "Year": 2021,
+    "Value": 0.1
+  },
+  {
+    "Country": "Norway",
+    "Year": 2022,
+    "Value": 0.3
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2001,
+    "Value": 30.9
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2004,
+    "Value": 23.0
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2005,
+    "Value": 22.9
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2007,
+    "Value": 19.7
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2010,
+    "Value": 15.7
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2011,
+    "Value": 15.4
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2013,
+    "Value": 12.9
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2015,
+    "Value": 10.9
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2018,
+    "Value": 10.7
+  },
+  {
+    "Country": "Panama",
+    "Year": 2000,
+    "Value": 11.8
+  },
+  {
+    "Country": "Panama",
+    "Year": 2001,
+    "Value": 14.6
+  },
+  {
+    "Country": "Panama",
+    "Year": 2002,
+    "Value": 11.2
+  },
+  {
+    "Country": "Panama",
+    "Year": 2003,
+    "Value": 11.0
+  },
+  {
+    "Country": "Panama",
+    "Year": 2004,
+    "Value": 10.1
+  },
+  {
+    "Country": "Panama",
+    "Year": 2005,
+    "Value": 9.6
+  },
+  {
+    "Country": "Panama",
+    "Year": 2006,
+    "Value": 10.3
+  },
+  {
+    "Country": "Panama",
+    "Year": 2007,
+    "Value": 8.1
+  },
+  {
+    "Country": "Panama",
+    "Year": 2008,
+    "Value": 5.5
+  },
+  {
+    "Country": "Panama",
+    "Year": 2009,
+    "Value": 4.1
+  },
+  {
+    "Country": "Panama",
+    "Year": 2010,
+    "Value": 4.9
+  },
+  {
+    "Country": "Panama",
+    "Year": 2011,
+    "Value": 3.8
+  },
+  {
+    "Country": "Panama",
+    "Year": 2012,
+    "Value": 4.6
+  },
+  {
+    "Country": "Panama",
+    "Year": 2013,
+    "Value": 3.5
+  },
+  {
+    "Country": "Panama",
+    "Year": 2014,
+    "Value": 3.9
+  },
+  {
+    "Country": "Panama",
+    "Year": 2015,
+    "Value": 2.8
+  },
+  {
+    "Country": "Panama",
+    "Year": 2016,
+    "Value": 2.9
+  },
+  {
+    "Country": "Panama",
+    "Year": 2017,
+    "Value": 2.9
+  },
+  {
+    "Country": "Panama",
+    "Year": 2018,
+    "Value": 2.3
+  },
+  {
+    "Country": "Panama",
+    "Year": 2019,
+    "Value": 1.9
+  },
+  {
+    "Country": "Panama",
+    "Year": 2021,
+    "Value": 2.2
+  },
+  {
+    "Country": "Panama",
+    "Year": 2023,
+    "Value": 2.3
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Year": 2009,
+    "Value": 33.3
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2001,
+    "Value": 8.7
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2002,
+    "Value": 12.7
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2003,
+    "Value": 8.6
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2004,
+    "Value": 6.8
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2005,
+    "Value": 6.4
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2006,
+    "Value": 8.4
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2007,
+    "Value": 7.5
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2008,
+    "Value": 5.3
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2009,
+    "Value": 5.9
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2010,
+    "Value": 5.7
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2011,
+    "Value": 5.5
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2012,
+    "Value": 3.9
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2013,
+    "Value": 2.6
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2014,
+    "Value": 2.8
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2015,
+    "Value": 2.6
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2016,
+    "Value": 2.5
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2017,
+    "Value": 1.7
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2018,
+    "Value": 2.0
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2019,
+    "Value": 1.7
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2020,
+    "Value": 1.6
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2021,
+    "Value": 1.3
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2022,
+    "Value": 2.2
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2023,
+    "Value": 1.7
+  },
+  {
+    "Country": "Peru",
+    "Year": 2000,
+    "Value": 16.6
+  },
+  {
+    "Country": "Peru",
+    "Year": 2001,
+    "Value": 17.6
+  },
+  {
+    "Country": "Peru",
+    "Year": 2002,
+    "Value": 15.7
+  },
+  {
+    "Country": "Peru",
+    "Year": 2003,
+    "Value": 13.8
+  },
+  {
+    "Country": "Peru",
+    "Year": 2004,
+    "Value": 14.6
+  },
+  {
+    "Country": "Peru",
+    "Year": 2005,
+    "Value": 16.1
+  },
+  {
+    "Country": "Peru",
+    "Year": 2006,
+    "Value": 13.9
+  },
+  {
+    "Country": "Peru",
+    "Year": 2007,
+    "Value": 11.8
+  },
+  {
+    "Country": "Peru",
+    "Year": 2008,
+    "Value": 9.8
+  },
+  {
+    "Country": "Peru",
+    "Year": 2009,
+    "Value": 8.4
+  },
+  {
+    "Country": "Peru",
+    "Year": 2010,
+    "Value": 6.9
+  },
+  {
+    "Country": "Peru",
+    "Year": 2011,
+    "Value": 6.3
+  },
+  {
+    "Country": "Peru",
+    "Year": 2012,
+    "Value": 5.9
+  },
+  {
+    "Country": "Peru",
+    "Year": 2013,
+    "Value": 5.4
+  },
+  {
+    "Country": "Peru",
+    "Year": 2014,
+    "Value": 4.9
+  },
+  {
+    "Country": "Peru",
+    "Year": 2015,
+    "Value": 4.8
+  },
+  {
+    "Country": "Peru",
+    "Year": 2016,
+    "Value": 4.6
+  },
+  {
+    "Country": "Peru",
+    "Year": 2017,
+    "Value": 4.6
+  },
+  {
+    "Country": "Peru",
+    "Year": 2018,
+    "Value": 3.8
+  },
+  {
+    "Country": "Peru",
+    "Year": 2019,
+    "Value": 3.3
+  },
+  {
+    "Country": "Peru",
+    "Year": 2020,
+    "Value": 6.4
+  },
+  {
+    "Country": "Peru",
+    "Year": 2021,
+    "Value": 3.3
+  },
+  {
+    "Country": "Peru",
+    "Year": 2022,
+    "Value": 3.2
+  },
+  {
+    "Country": "Peru",
+    "Year": 2023,
+    "Value": 3.7
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2000,
+    "Value": 15.0
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2003,
+    "Value": 14.4
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2006,
+    "Value": 15.3
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2009,
+    "Value": 12.9
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2012,
+    "Value": 12.6
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2015,
+    "Value": 8.9
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2018,
+    "Value": 5.4
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2021,
+    "Value": 5.3
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2023,
+    "Value": 3.7
+  },
+  {
+    "Country": "Poland",
+    "Year": 2000,
+    "Value": 0.3
+  },
+  {
+    "Country": "Poland",
+    "Year": 2001,
+    "Value": 0.3
+  },
+  {
+    "Country": "Poland",
+    "Year": 2002,
+    "Value": 0.3
+  },
+  {
+    "Country": "Poland",
+    "Year": 2003,
+    "Value": 0.2
+  },
+  {
+    "Country": "Poland",
+    "Year": 2004,
+    "Value": 2.1
+  },
+  {
+    "Country": "Poland",
+    "Year": 2005,
+    "Value": 1.0
+  },
+  {
+    "Country": "Poland",
+    "Year": 2006,
+    "Value": 0.7
+  },
+  {
+    "Country": "Poland",
+    "Year": 2007,
+    "Value": 0.5
+  },
+  {
+    "Country": "Poland",
+    "Year": 2008,
+    "Value": 0.2
+  },
+  {
+    "Country": "Poland",
+    "Year": 2009,
+    "Value": 0.3
+  },
+  {
+    "Country": "Poland",
+    "Year": 2010,
+    "Value": 0.4
+  },
+  {
+    "Country": "Poland",
+    "Year": 2011,
+    "Value": 0.4
+  },
+  {
+    "Country": "Poland",
+    "Year": 2012,
+    "Value": 0.3
+  },
+  {
+    "Country": "Poland",
+    "Year": 2013,
+    "Value": 0.4
+  },
+  {
+    "Country": "Poland",
+    "Year": 2014,
+    "Value": 0.4
+  },
+  {
+    "Country": "Poland",
+    "Year": 2015,
+    "Value": 0.4
+  },
+  {
+    "Country": "Poland",
+    "Year": 2016,
+    "Value": 0.2
+  },
+  {
+    "Country": "Poland",
+    "Year": 2017,
+    "Value": 0.3
+  },
+  {
+    "Country": "Poland",
+    "Year": 2018,
+    "Value": 0.2
+  },
+  {
+    "Country": "Poland",
+    "Year": 2019,
+    "Value": 0.1
+  },
+  {
+    "Country": "Poland",
+    "Year": 2020,
+    "Value": 0.1
+  },
+  {
+    "Country": "Poland",
+    "Year": 2021,
+    "Value": 0.1
+  },
+  {
+    "Country": "Poland",
+    "Year": 2022,
+    "Value": 0.2
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2003,
+    "Value": 0.8
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2004,
+    "Value": 0.5
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2005,
+    "Value": 0.5
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2006,
+    "Value": 0.1
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2007,
+    "Value": 0.3
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2008,
+    "Value": 0.2
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2009,
+    "Value": 0.2
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2010,
+    "Value": 0.2
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2011,
+    "Value": 0.4
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2012,
+    "Value": 0.7
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2013,
+    "Value": 0.8
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2014,
+    "Value": 0.6
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2015,
+    "Value": 0.5
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2016,
+    "Value": 0.3
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2017,
+    "Value": 0.3
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2018,
+    "Value": 0.3
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2019,
+    "Value": 0.1
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2020,
+    "Value": 0.4
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2021,
+    "Value": 0.2
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2022,
+    "Value": 0.2
+  },
+  {
+    "Country": "Qatar",
+    "Year": 2017,
+    "Value": 0.0
+  },
+  {
+    "Country": "Romania",
+    "Year": 2000,
+    "Value": 7.7
+  },
+  {
+    "Country": "Romania",
+    "Year": 2001,
+    "Value": 6.0
+  },
+  {
+    "Country": "Romania",
+    "Year": 2002,
+    "Value": 5.9
+  },
+  {
+    "Country": "Romania",
+    "Year": 2003,
+    "Value": 4.6
+  },
+  {
+    "Country": "Romania",
+    "Year": 2004,
+    "Value": 3.4
+  },
+  {
+    "Country": "Romania",
+    "Year": 2005,
+    "Value": 2.7
+  },
+  {
+    "Country": "Romania",
+    "Year": 2006,
+    "Value": 6.9
+  },
+  {
+    "Country": "Romania",
+    "Year": 2007,
+    "Value": 5.0
+  },
+  {
+    "Country": "Romania",
+    "Year": 2008,
+    "Value": 3.8
+  },
+  {
+    "Country": "Romania",
+    "Year": 2009,
+    "Value": 3.3
+  },
+  {
+    "Country": "Romania",
+    "Year": 2010,
+    "Value": 4.1
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Value": 4.9
+  },
+  {
+    "Country": "Romania",
+    "Year": 2012,
+    "Value": 5.3
+  },
+  {
+    "Country": "Romania",
+    "Year": 2013,
+    "Value": 5.9
+  },
+  {
+    "Country": "Romania",
+    "Year": 2014,
+    "Value": 5.9
+  },
+  {
+    "Country": "Romania",
+    "Year": 2015,
+    "Value": 4.7
+  },
+  {
+    "Country": "Romania",
+    "Year": 2016,
+    "Value": 3.2
+  },
+  {
+    "Country": "Romania",
+    "Year": 2017,
+    "Value": 3.0
+  },
+  {
+    "Country": "Romania",
+    "Year": 2018,
+    "Value": 2.3
+  },
+  {
+    "Country": "Romania",
+    "Year": 2019,
+    "Value": 1.9
+  },
+  {
+    "Country": "Romania",
+    "Year": 2020,
+    "Value": 1.6
+  },
+  {
+    "Country": "Romania",
+    "Year": 2021,
+    "Value": 1.3
+  },
+  {
+    "Country": "Romania",
+    "Year": 2022,
+    "Value": 1.0
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2000,
+    "Value": 3.4
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2001,
+    "Value": 2.2
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2002,
+    "Value": 1.4
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2003,
+    "Value": 1.5
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2004,
+    "Value": 1.3
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2005,
+    "Value": 1.0
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2006,
+    "Value": 0.7
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2007,
+    "Value": 0.4
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2008,
+    "Value": 0.2
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2009,
+    "Value": 0.1
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2010,
+    "Value": 0.1
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2011,
+    "Value": 0.1
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2012,
+    "Value": 0.1
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2013,
+    "Value": 0.1
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2014,
+    "Value": 0.3
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2015,
+    "Value": 0.3
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2016,
+    "Value": 0.3
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2017,
+    "Value": 0.3
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2018,
+    "Value": 0.1
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2019,
+    "Value": 0.2
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2020,
+    "Value": 0.1
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2021,
+    "Value": 0.2
+  },
+  {
+    "Country": "Rwanda",
+    "Year": 2000,
+    "Value": 56.2
+  },
+  {
+    "Country": "Rwanda",
+    "Year": 2005,
+    "Value": 49.3
+  },
+  {
+    "Country": "Rwanda",
+    "Year": 2010,
+    "Value": 44.0
+  },
+  {
+    "Country": "Rwanda",
+    "Year": 2013,
+    "Value": 39.9
+  },
+  {
+    "Country": "Rwanda",
+    "Year": 2016,
+    "Value": 39.0
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2002,
+    "Value": 3.8
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2008,
+    "Value": 2.5
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2013,
+    "Value": 2.7
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Year": 2000,
+    "Value": 10.2
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Year": 2010,
+    "Value": 11.3
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Year": 2017,
+    "Value": 8.3
+  },
+  {
+    "Country": "Senegal",
+    "Year": 2001,
+    "Value": 39.3
+  },
+  {
+    "Country": "Senegal",
+    "Year": 2005,
+    "Value": 32.7
+  },
+  {
+    "Country": "Senegal",
+    "Year": 2011,
+    "Value": 33.0
+  },
+  {
+    "Country": "Senegal",
+    "Year": 2018,
+    "Value": 11.2
+  },
+  {
+    "Country": "Senegal",
+    "Year": 2021,
+    "Value": 10.9
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2002,
+    "Value": 0.3
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2003,
+    "Value": 0.6
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2004,
+    "Value": 0.9
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2005,
+    "Value": 1.1
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2006,
+    "Value": 0.6
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2007,
+    "Value": 0.4
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2008,
+    "Value": 0.2
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2009,
+    "Value": 0.4
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2010,
+    "Value": 0.4
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2012,
+    "Value": 5.1
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2013,
+    "Value": 5.7
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2014,
+    "Value": 6.6
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2015,
+    "Value": 6.2
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2016,
+    "Value": 6.1
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2017,
+    "Value": 4.9
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2018,
+    "Value": 2.8
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2019,
+    "Value": 2.0
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2020,
+    "Value": 1.4
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2021,
+    "Value": 1.3
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2022,
+    "Value": 1.5
+  },
+  {
+    "Country": "Seychelles",
+    "Year": 2006,
+    "Value": 0.6
+  },
+  {
+    "Country": "Seychelles",
+    "Year": 2013,
+    "Value": 1.2
+  },
+  {
+    "Country": "Seychelles",
+    "Year": 2018,
+    "Value": 0.5
+  },
+  {
+    "Country": "Sierra Leone",
+    "Year": 2003,
+    "Value": 45.5
+  },
+  {
+    "Country": "Sierra Leone",
+    "Year": 2011,
+    "Value": 30.9
+  },
+  {
+    "Country": "Sierra Leone",
+    "Year": 2018,
+    "Value": 23.6
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2004,
+    "Value": 0.2
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2005,
+    "Value": 0.2
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2006,
+    "Value": 0.3
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2007,
+    "Value": 0.4
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2008,
+    "Value": 0.4
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2009,
+    "Value": 0.4
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2010,
+    "Value": 0.5
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2011,
+    "Value": 0.4
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2012,
+    "Value": 0.4
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2013,
+    "Value": 0.4
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2014,
+    "Value": 0.7
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2015,
+    "Value": 0.6
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2016,
+    "Value": 1.3
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2017,
+    "Value": 0.4
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2018,
+    "Value": 0.4
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2019,
+    "Value": 0.1
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2020,
+    "Value": 0.2
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2021,
+    "Value": 0.2
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2022,
+    "Value": 0.6
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2002,
+    "Value": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2003,
+    "Value": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2004,
+    "Value": 0.1
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2005,
+    "Value": 0.1
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2006,
+    "Value": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2007,
+    "Value": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2008,
+    "Value": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2009,
+    "Value": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2010,
+    "Value": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2011,
+    "Value": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2012,
+    "Value": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2013,
+    "Value": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2014,
+    "Value": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2015,
+    "Value": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2016,
+    "Value": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2017,
+    "Value": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2018,
+    "Value": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2019,
+    "Value": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2020,
+    "Value": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2021,
+    "Value": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2022,
+    "Value": 0.0
+  },
+  {
+    "Country": "Solomon Islands",
+    "Year": 2005,
+    "Value": 39.7
+  },
+  {
+    "Country": "Solomon Islands",
+    "Year": 2012,
+    "Value": 24.2
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2000,
+    "Value": 31.0
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2005,
+    "Value": 25.8
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2008,
+    "Value": 18.3
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2010,
+    "Value": 17.9
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2014,
+    "Value": 19.5
+  },
+  {
+    "Country": "South Sudan",
+    "Year": 2009,
+    "Value": 29.3
+  },
+  {
+    "Country": "South Sudan",
+    "Year": 2016,
+    "Value": 52.8
+  },
+  {
+    "Country": "Spain",
+    "Year": 2000,
+    "Value": 0.7
+  },
+  {
+    "Country": "Spain",
+    "Year": 2003,
+    "Value": 0.7
+  },
+  {
+    "Country": "Spain",
+    "Year": 2004,
+    "Value": 0.8
+  },
+  {
+    "Country": "Spain",
+    "Year": 2005,
+    "Value": 0.7
+  },
+  {
+    "Country": "Spain",
+    "Year": 2006,
+    "Value": 0.7
+  },
+  {
+    "Country": "Spain",
+    "Year": 2007,
+    "Value": 0.4
+  },
+  {
+    "Country": "Spain",
+    "Year": 2008,
+    "Value": 0.5
+  },
+  {
+    "Country": "Spain",
+    "Year": 2009,
+    "Value": 0.7
+  },
+  {
+    "Country": "Spain",
+    "Year": 2010,
+    "Value": 0.6
+  },
+  {
+    "Country": "Spain",
+    "Year": 2011,
+    "Value": 1.0
+  },
+  {
+    "Country": "Spain",
+    "Year": 2012,
+    "Value": 0.8
+  },
+  {
+    "Country": "Spain",
+    "Year": 2013,
+    "Value": 1.0
+  },
+  {
+    "Country": "Spain",
+    "Year": 2014,
+    "Value": 0.7
+  },
+  {
+    "Country": "Spain",
+    "Year": 2015,
+    "Value": 0.8
+  },
+  {
+    "Country": "Spain",
+    "Year": 2016,
+    "Value": 1.0
+  },
+  {
+    "Country": "Spain",
+    "Year": 2017,
+    "Value": 0.7
+  },
+  {
+    "Country": "Spain",
+    "Year": 2018,
+    "Value": 0.7
+  },
+  {
+    "Country": "Spain",
+    "Year": 2019,
+    "Value": 0.7
+  },
+  {
+    "Country": "Spain",
+    "Year": 2020,
+    "Value": 0.8
+  },
+  {
+    "Country": "Spain",
+    "Year": 2021,
+    "Value": 0.5
+  },
+  {
+    "Country": "Spain",
+    "Year": 2022,
+    "Value": 0.6
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": 2002,
+    "Value": 12.3
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": 2006,
+    "Value": 7.7
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": 2009,
+    "Value": 5.5
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": 2012,
+    "Value": 4.5
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": 2016,
+    "Value": 2.8
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": 2019,
+    "Value": 2.2
+  },
+  {
+    "Country": "St. Lucia",
+    "Year": 2015,
+    "Value": 0.1
+  },
+  {
+    "Country": "Sudan",
+    "Year": 2009,
+    "Value": 8.3
+  },
+  {
+    "Country": "Sudan",
+    "Year": 2014,
+    "Value": 6.5
+  },
+  {
+    "Country": "Suriname",
+    "Year": 2022,
+    "Value": 1.2
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2000,
+    "Value": 0.1
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2001,
+    "Value": 0.2
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2002,
+    "Value": 0.0
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2003,
+    "Value": 0.3
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2004,
+    "Value": 0.4
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2005,
+    "Value": 0.9
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2006,
+    "Value": 0.3
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2007,
+    "Value": 0.4
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2008,
+    "Value": 0.5
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2009,
+    "Value": 0.4
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2010,
+    "Value": 0.5
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2011,
+    "Value": 0.5
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2012,
+    "Value": 0.4
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2013,
+    "Value": 0.6
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2014,
+    "Value": 0.4
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2015,
+    "Value": 0.5
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2016,
+    "Value": 0.3
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2017,
+    "Value": 0.2
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2018,
+    "Value": 0.7
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2019,
+    "Value": 0.3
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2020,
+    "Value": 0.4
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2021,
+    "Value": 0.6
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2022,
+    "Value": 1.0
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2000,
+    "Value": 0.1
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2002,
+    "Value": 0.0
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2004,
+    "Value": 0.1
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2006,
+    "Value": 0.1
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2007,
+    "Value": 0.0
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2008,
+    "Value": 0.1
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2009,
+    "Value": 0.0
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2010,
+    "Value": 0.0
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2011,
+    "Value": 0.0
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2012,
+    "Value": 0.0
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2013,
+    "Value": 0.0
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2014,
+    "Value": 0.0
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2015,
+    "Value": 0.0
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2016,
+    "Value": 0.0
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2017,
+    "Value": 0.0
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2018,
+    "Value": 0.0
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2019,
+    "Value": 0.0
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2020,
+    "Value": 0.0
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2021,
+    "Value": 0.0
+  },
+  {
+    "Country": "Syrian Arab Republic",
+    "Year": 2003,
+    "Value": 0.5
+  },
+  {
+    "Country": "Syrian Arab Republic",
+    "Year": 2006,
+    "Value": 0.8
+  },
+  {
+    "Country": "Syrian Arab Republic",
+    "Year": 2009,
+    "Value": 0.7
+  },
+  {
+    "Country": "Syrian Arab Republic",
+    "Year": 2022,
+    "Value": 10.5
+  },
+  {
+    "Country": "Tajikistan",
+    "Year": 2003,
+    "Value": 33.0
+  },
+  {
+    "Country": "Tajikistan",
+    "Year": 2004,
+    "Value": 21.7
+  },
+  {
+    "Country": "Tajikistan",
+    "Year": 2007,
+    "Value": 15.9
+  },
+  {
+    "Country": "Tajikistan",
+    "Year": 2009,
+    "Value": 10.2
+  },
+  {
+    "Country": "Tajikistan",
+    "Year": 2015,
+    "Value": 8.6
+  },
+  {
+    "Country": "Tanzania",
+    "Year": 2000,
+    "Value": 59.8
+  },
+  {
+    "Country": "Tanzania",
+    "Year": 2007,
+    "Value": 37.7
+  },
+  {
+    "Country": "Tanzania",
+    "Year": 2011,
+    "Value": 29.7
+  },
+  {
+    "Country": "Tanzania",
+    "Year": 2018,
+    "Value": 29.6
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2000,
+    "Value": 5.5
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2002,
+    "Value": 3.4
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2004,
+    "Value": 2.4
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2006,
+    "Value": 1.7
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2007,
+    "Value": 1.1
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2008,
+    "Value": 0.9
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2009,
+    "Value": 0.7
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2010,
+    "Value": 0.6
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2011,
+    "Value": 0.3
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2012,
+    "Value": 0.4
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2013,
+    "Value": 0.2
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2014,
+    "Value": 0.2
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2015,
+    "Value": 0.1
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2016,
+    "Value": 0.1
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2017,
+    "Value": 0.1
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2018,
+    "Value": 0.1
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2019,
+    "Value": 0.1
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2020,
+    "Value": 0.1
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2021,
+    "Value": 0.1
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2022,
+    "Value": 0.0
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2023,
+    "Value": 0.0
+  },
+  {
+    "Country": "Timor-Leste",
+    "Year": 2001,
+    "Value": 33.0
+  },
+  {
+    "Country": "Timor-Leste",
+    "Year": 2007,
+    "Value": 34.1
+  },
+  {
+    "Country": "Timor-Leste",
+    "Year": 2014,
+    "Value": 25.1
+  },
+  {
+    "Country": "Togo",
+    "Year": 2006,
+    "Value": 43.0
+  },
+  {
+    "Country": "Togo",
+    "Year": 2011,
+    "Value": 43.2
+  },
+  {
+    "Country": "Togo",
+    "Year": 2015,
+    "Value": 40.1
+  },
+  {
+    "Country": "Togo",
+    "Year": 2018,
+    "Value": 21.5
+  },
+  {
+    "Country": "Togo",
+    "Year": 2021,
+    "Value": 20.4
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2000,
+    "Value": 2.9
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2009,
+    "Value": 2.5
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2015,
+    "Value": 3.3
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2021,
+    "Value": 0.4
+  },
+  {
+    "Country": "Tunisia",
+    "Year": 2000,
+    "Value": 6.1
+  },
+  {
+    "Country": "Tunisia",
+    "Year": 2005,
+    "Value": 3.8
+  },
+  {
+    "Country": "Tunisia",
+    "Year": 2010,
+    "Value": 2.0
+  },
+  {
+    "Country": "Tunisia",
+    "Year": 2015,
+    "Value": 0.5
+  },
+  {
+    "Country": "Tunisia",
+    "Year": 2021,
+    "Value": 0.5
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2002,
+    "Value": 4.7
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2003,
+    "Value": 6.1
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2004,
+    "Value": 4.0
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2005,
+    "Value": 3.9
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2006,
+    "Value": 3.1
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2007,
+    "Value": 2.5
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2008,
+    "Value": 2.1
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2009,
+    "Value": 1.8
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2010,
+    "Value": 1.7
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2011,
+    "Value": 1.4
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2012,
+    "Value": 1.2
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2013,
+    "Value": 1.0
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2014,
+    "Value": 0.8
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2015,
+    "Value": 0.9
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2016,
+    "Value": 0.6
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2017,
+    "Value": 0.7
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2018,
+    "Value": 0.7
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2019,
+    "Value": 0.8
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2020,
+    "Value": 0.8
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2021,
+    "Value": 0.7
+  },
+  {
+    "Country": "Turkiye",
+    "Year": 2022,
+    "Value": 0.3
+  },
+  {
+    "Country": "Tuvalu",
+    "Year": 2010,
+    "Value": 5.5
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2002,
+    "Value": 51.9
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2005,
+    "Value": 46.2
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2009,
+    "Value": 38.9
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2012,
+    "Value": 33.6
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2016,
+    "Value": 36.5
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2019,
+    "Value": 36.3
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2002,
+    "Value": 4.5
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2003,
+    "Value": 2.6
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2004,
+    "Value": 2.1
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2005,
+    "Value": 0.9
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2006,
+    "Value": 0.6
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2007,
+    "Value": 0.4
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2008,
+    "Value": 0.2
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2009,
+    "Value": 0.2
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2010,
+    "Value": 0.1
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2011,
+    "Value": 0.1
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2012,
+    "Value": 0.1
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2013,
+    "Value": 0.1
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2014,
+    "Value": 0.1
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2015,
+    "Value": 0.2
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2016,
+    "Value": 0.2
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2017,
+    "Value": 0.1
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2018,
+    "Value": 0.1
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2019,
+    "Value": 0.1
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2020,
+    "Value": 0.0
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Year": 2013,
+    "Value": 0.0
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Year": 2018,
+    "Value": 0.0
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2000,
+    "Value": 0.2
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2001,
+    "Value": 0.2
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2002,
+    "Value": 0.2
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2003,
+    "Value": 0.2
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2004,
+    "Value": 0.2
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2005,
+    "Value": 0.3
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2006,
+    "Value": 0.2
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2007,
+    "Value": 0.2
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2008,
+    "Value": 0.3
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2009,
+    "Value": 0.3
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2010,
+    "Value": 0.3
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2011,
+    "Value": 0.2
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2012,
+    "Value": 0.3
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2013,
+    "Value": 0.2
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2014,
+    "Value": 0.3
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2015,
+    "Value": 0.2
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2016,
+    "Value": 0.3
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2017,
+    "Value": 0.3
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2018,
+    "Value": 0.4
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2019,
+    "Value": 0.3
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2020,
+    "Value": 0.4
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2021,
+    "Value": 0.3
+  },
+  {
+    "Country": "United States",
+    "Year": 2000,
+    "Value": 0.6
+  },
+  {
+    "Country": "United States",
+    "Year": 2001,
+    "Value": 0.8
+  },
+  {
+    "Country": "United States",
+    "Year": 2002,
+    "Value": 0.7
+  },
+  {
+    "Country": "United States",
+    "Year": 2003,
+    "Value": 0.9
+  },
+  {
+    "Country": "United States",
+    "Year": 2004,
+    "Value": 0.9
+  },
+  {
+    "Country": "United States",
+    "Year": 2005,
+    "Value": 0.9
+  },
+  {
+    "Country": "United States",
+    "Year": 2006,
+    "Value": 0.9
+  },
+  {
+    "Country": "United States",
+    "Year": 2007,
+    "Value": 0.9
+  },
+  {
+    "Country": "United States",
+    "Year": 2008,
+    "Value": 0.9
+  },
+  {
+    "Country": "United States",
+    "Year": 2009,
+    "Value": 0.8
+  },
+  {
+    "Country": "United States",
+    "Year": 2010,
+    "Value": 1.0
+  },
+  {
+    "Country": "United States",
+    "Year": 2011,
+    "Value": 0.9
+  },
+  {
+    "Country": "United States",
+    "Year": 2012,
+    "Value": 0.9
+  },
+  {
+    "Country": "United States",
+    "Year": 2013,
+    "Value": 0.9
+  },
+  {
+    "Country": "United States",
+    "Year": 2014,
+    "Value": 1.1
+  },
+  {
+    "Country": "United States",
+    "Year": 2015,
+    "Value": 1.0
+  },
+  {
+    "Country": "United States",
+    "Year": 2016,
+    "Value": 1.0
+  },
+  {
+    "Country": "United States",
+    "Year": 2017,
+    "Value": 1.1
+  },
+  {
+    "Country": "United States",
+    "Year": 2018,
+    "Value": 0.9
+  },
+  {
+    "Country": "United States",
+    "Year": 2019,
+    "Value": 0.9
+  },
+  {
+    "Country": "United States",
+    "Year": 2020,
+    "Value": 0.3
+  },
+  {
+    "Country": "United States",
+    "Year": 2021,
+    "Value": 0.3
+  },
+  {
+    "Country": "United States",
+    "Year": 2022,
+    "Value": 1.2
+  },
+  {
+    "Country": "United States",
+    "Year": 2023,
+    "Value": 1.0
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2000,
+    "Value": 0.6
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2001,
+    "Value": 0.6
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2002,
+    "Value": 0.7
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2003,
+    "Value": 1.0
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2004,
+    "Value": 1.2
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2005,
+    "Value": 1.1
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2006,
+    "Value": 0.8
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2007,
+    "Value": 0.6
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2008,
+    "Value": 0.4
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2009,
+    "Value": 0.4
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2010,
+    "Value": 0.3
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2011,
+    "Value": 0.2
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2012,
+    "Value": 0.2
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2013,
+    "Value": 0.2
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2014,
+    "Value": 0.2
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2015,
+    "Value": 0.2
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2016,
+    "Value": 0.1
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2017,
+    "Value": 0.1
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2018,
+    "Value": 0.1
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2019,
+    "Value": 0.1
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2020,
+    "Value": 0.2
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2021,
+    "Value": 0.1
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2022,
+    "Value": 0.2
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2023,
+    "Value": 0.2
+  },
+  {
+    "Country": "Uzbekistan",
+    "Year": 2000,
+    "Value": 68.1
+  },
+  {
+    "Country": "Uzbekistan",
+    "Year": 2002,
+    "Value": 66.0
+  },
+  {
+    "Country": "Uzbekistan",
+    "Year": 2003,
+    "Value": 67.7
+  },
+  {
+    "Country": "Uzbekistan",
+    "Year": 2021,
+    "Value": 3.0
+  },
+  {
+    "Country": "Uzbekistan",
+    "Year": 2022,
+    "Value": 2.9
+  },
+  {
+    "Country": "Uzbekistan",
+    "Year": 2023,
+    "Value": 2.7
+  },
+  {
+    "Country": "Vanuatu",
+    "Year": 2010,
+    "Value": 15.1
+  },
+  {
+    "Country": "Vanuatu",
+    "Year": 2019,
+    "Value": 11.6
+  },
+  {
+    "Country": "Venezuela, RB",
+    "Year": 2001,
+    "Value": 10.0
+  },
+  {
+    "Country": "Venezuela, RB",
+    "Year": 2002,
+    "Value": 15.2
+  },
+  {
+    "Country": "Venezuela, RB",
+    "Year": 2003,
+    "Value": 18.2
+  },
+  {
+    "Country": "Venezuela, RB",
+    "Year": 2004,
+    "Value": 15.4
+  },
+  {
+    "Country": "Venezuela, RB",
+    "Year": 2005,
+    "Value": 13.5
+  },
+  {
+    "Country": "Venezuela, RB",
+    "Year": 2006,
+    "Value": 7.0
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2002,
+    "Value": 24.5
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2004,
+    "Value": 18.2
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2006,
+    "Value": 14.0
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2008,
+    "Value": 11.2
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2010,
+    "Value": 3.4
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2012,
+    "Value": 2.3
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2014,
+    "Value": 2.2
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2016,
+    "Value": 1.5
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2018,
+    "Value": 1.4
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2020,
+    "Value": 0.9
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2022,
+    "Value": 1.1
+  },
+  {
+    "Country": "West Bank and Gaza",
+    "Year": 2004,
+    "Value": 1.2
+  },
+  {
+    "Country": "West Bank and Gaza",
+    "Year": 2005,
+    "Value": 0.9
+  },
+  {
+    "Country": "West Bank and Gaza",
+    "Year": 2006,
+    "Value": 0.5
+  },
+  {
+    "Country": "West Bank and Gaza",
+    "Year": 2007,
+    "Value": 1.8
+  },
+  {
+    "Country": "West Bank and Gaza",
+    "Year": 2009,
+    "Value": 0.5
+  },
+  {
+    "Country": "West Bank and Gaza",
+    "Year": 2010,
+    "Value": 0.5
+  },
+  {
+    "Country": "West Bank and Gaza",
+    "Year": 2011,
+    "Value": 0.4
+  },
+  {
+    "Country": "West Bank and Gaza",
+    "Year": 2016,
+    "Value": 1.0
+  },
+  {
+    "Country": "West Bank and Gaza",
+    "Year": 2023,
+    "Value": 1.4
+  },
+  {
+    "Country": "Yemen, Rep.",
+    "Year": 2005,
+    "Value": 12.9
+  },
+  {
+    "Country": "Yemen, Rep.",
+    "Year": 2014,
+    "Value": 19.8
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2002,
+    "Value": 42.4
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2004,
+    "Value": 47.9
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2006,
+    "Value": 50.8
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2010,
+    "Value": 49.4
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2015,
+    "Value": 48.2
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2022,
+    "Value": 50.4
+  },
+  {
+    "Country": "Zimbabwe",
+    "Year": 2011,
+    "Value": 21.0
+  },
+  {
+    "Country": "Zimbabwe",
+    "Year": 2017,
+    "Value": 26.0
+  },
+  {
+    "Country": "Zimbabwe",
+    "Year": 2019,
+    "Value": 30.0
+  }
+]
