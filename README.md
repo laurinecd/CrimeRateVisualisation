@@ -39,7 +39,17 @@ Journalistes de données, chercheurs, étudiants et professionnels souhaitant an
 
 ## Installation et lancement
 
-### Méthode 1 : Serveur Python (recommandé)
+### Méthode 1 : Serveur Npm
+
+Cloner le dépôt
+git clone https://github.com/laurinecd/CrimeRateVisualisation.git
+cd CrimeRateVisualisation
+
+- Ouvrir le projet
+- Faire `npm install`
+- Lancer le serveur avec `npm start`
+
+### Méthode 2 : Serveur Python
 
 Cloner le dépôt
 git clone https://github.com/laurinecd/CrimeRateVisualisation.git
@@ -52,13 +62,13 @@ python3 -m http.server 8000
 Ouvrir dans le navigateur
 → http://localhost:8000/index.html 
 
-### Méthode 2 : Serveur Node.js (npx)
+### Méthode 3 : Serveur Node.js (npx)
 
 Depuis le dossier public
 cd public
 npx http-server -p 8000 -c-1
 
-### Méthode 3 : Serveur Node.js (global)
+### Méthode 4 : Serveur Node.js (global)
 
 Installer http-server globalement
 npm install -g http-server
@@ -137,6 +147,10 @@ http-server -p 8000 -c-1
 - Coordination entre vues 
 - Mode storytelling guidé
 - Interface responsive
+
+## Démonstration du projet
+
+- [Lien vers la démonstration](https://unice-my.sharepoint.com/:f:/g/personal/selom-ami_adzaho_etu_unice_fr/EkmFSm5YmllGjwi6IDtWSwIB7urrEFc8UruKfHe4kxARqQ?e=nEG51V) 
 
 ## Sources
 
