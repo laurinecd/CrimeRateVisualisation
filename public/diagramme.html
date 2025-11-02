@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <title>Course de diagramme à barres – Lamyae</title>
+
+    <!-- ✅ Chargement correct de D3.js depuis le CDN officiel -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+    <!-- ✅ Feuille de style -->
+    <link rel="stylesheet" href="src/css/style.css">
+    <link rel="stylesheet" href="src/css/index.css">
+  </head>
+
+  <body>
+    <header class="page-header">
+      <nav>
+        <div></div>
+        <div class="map-controls">
+          <a href="index.html" class="active"><img src="src/img/map.svg"
+              alt="icone de map"></a>
+          <hr>
+          <a href="scatter_plot.html"><img src="src/img/graph.svg"
+              alt="icone de nuage de points"></a>
+          <hr>
+          <a href="diagramme.html"><img src="src/img/graph-filled.svg"
+              alt="icone de radar"></a>
+        </div>
+      </nav>
+    </header>
+   <main class="content">
+     <h1>Course de diagramme à barres – Corruption</h1>
+
+    <!-- ✅ Conteneur principal -->
+    <div id="controls">
+
+      <select id="regionFilter">
+        <option value="Monde">🌐 Monde</option>
+        <option value="Europe">🇪🇺 Europe</option>
+        <option value="Afrique">🌍 Afrique</option>
+        <option value="Asie">🌏 Asie</option>
+        <option value="Amérique">🌎 Amérique</option>
+        <option value="Océanie">🇦🇺 Océanie</option>
+      </select>
+
+      <select id="topN">
+        <option value="10">Top 10</option>
+        <option value="20">Top 20</option>
+
+      </select>
+
+      <button id="play">▶️ Play</button>
+      <button id="pause">⏸️ Pause</button>
+
+      <div id="legendContainer"></div>
+
+    </div>
+
+    <!-- ✅ Zone du graphique -->
+    <svg id="scene"></svg>
+  </main>
+
+    <!-- ✅ Appel du script à la fin du body -->
+    <script src="src/js/script.js"></script>
+
+  </body>
+</html>
