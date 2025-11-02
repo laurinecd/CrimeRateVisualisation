@@ -1,0 +1,121 @@
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  background-color: #f8f9fa;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 100vh;
+  margin: 0;
+  padding: 30px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2em;
+  color: #1e2a3a;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+svg {
+
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background-color: #ffffff;
+  padding: 10px;
+}
+
+/* === Control panel === */
+#controls {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+button, select {
+  background-color: #306dad;
+  color: white;
+  font-size: 14px;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover, select:hover {
+  background-color: #285b91;
+}
+
+select {
+  background-color: white;
+  color: #333;
+  border: 1px solid #ccc;
+  font-weight: 500;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* === Axis and text === */
+.axis path,
+.axis line {
+  stroke: #ccc;
+}
+
+text {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 12px;
+}
+
+.label {
+  fill: #111;
+  font-weight: 500;
+}
+
+/* === Bar colors === */
+.bar {
+  /*fill: #3e8ed0;*/
+  transition: fill 0.3s;
+}
+
+.bar:hover {
+  /*fill: #2f6aa4;*/
+}
+.tooltip {
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+#controls {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+#legendContainer {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-left: 20px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.legend-color {
+  width: 18px;
+  height: 18px;
+  border-radius: 4px;
+}
