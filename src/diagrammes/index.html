@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Course de diagramme à barres – Lamyae</title>
+
+  <!-- ✅ Chargement correct de D3.js depuis le CDN officiel -->
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+
+  <!-- ✅ Feuille de style -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>Course de diagramme à barres – Corruption</h1>
+
+  <!-- ✅ Conteneur principal -->
+<div id="controls">
+
+  <select id="regionFilter">
+    <option value="Monde">🌐 Monde</option>
+    <option value="Europe">🇪🇺 Europe</option>
+    <option value="Afrique">🌍 Afrique</option>
+    <option value="Asie">🌏 Asie</option>
+    <option value="Amérique">🌎 Amérique</option>
+    <option value="Océanie">🇦🇺 Océanie</option>
+  </select> 
+
+
+    <select id="topN">
+      <option value="10">Top 10</option>
+      <option value="20">Top 20</option>
+    
+    </select>
+
+    <button id="play">▶️ Play</button>
+    <button id="pause">⏸️ Pause</button>
+
+    <div id="legendContainer"></div>
+
+  </div>
+
+  <!-- ✅ Zone du graphique -->
+  <svg id="scene"></svg>
+
+  <!-- ✅ Appel du script à la fin du body -->
+  <script src="script.js"></script>
+
+
+</body>
+</html>
