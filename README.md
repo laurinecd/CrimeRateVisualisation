@@ -2,9 +2,9 @@
 Information Visualisation Project: World Crime Rate.
 
 Groupe n°9 sur Moodle :
-• Adzaho Selom Ami, SI5, IHM
-• Fakir Lamyae, M2, IHM
-• Collin Dufresne Laurine, M2, IA-ID
+- Adzaho Selom Ami, SI5, IHM
+- Fakir Lamyae, M2, IHM
+- Collin Dufresne Laurine, M2, IA-ID
 
 Projet de visualisation interactive de la criminalité mondiale (2000-2024) basé sur les données UNODC et World Bank.
 
@@ -69,27 +69,27 @@ http-server -p 8000 -c-1
 
 ## Structure du projet
 
-CrimeRateVisualisation/
-├── public/ # Application web
-│ ├── index.html 
-│ ├── scatter_plot.html 
-│ ├── src/
-│ │ ├── js/
-│ │ │ ├── datasets.js 
-│ │ │ ├── data.js 
-│ │ │ ├── map.js 
-│ │ │ └── scatter_plot.js 
-│ │ └── css/ # Styles
-│ └── lib/
-│ └── d3.v5.min.js 
-│
-└── data_treatment/ # Scripts de prétraitement
-| ├── data/ 
-| ├── global-data/ 
-| ├── countries.py
-| ├── global.py
-| ├── pipeline.py
-| └── convert_to_js.py 
+- CrimeRateVisualisation/
+- ├── public/ # Application web
+- │ ├── index.html 
+- │ ├── scatter_plot.html 
+- │ ├── src/
+- │ │ ├── js/
+- │ │ │ ├── datasets.js 
+- │ │ │ ├── data.js 
+- │ │ │ ├── map.js 
+- │ │ │ └── scatter_plot.js 
+- │ │ └── css/ # Styles
+- │ └── lib/
+- │ └── d3.v5.min.js 
+- │
+- └── data_treatment/ # Scripts de prétraitement
+- | ├── data/ 
+- | ├── global-data/ 
+- | ├── countries.py
+- | ├── global.py
+- | ├── pipeline.py
+- | └── convert_to_js.py 
 
 
 
@@ -115,7 +115,7 @@ CrimeRateVisualisation/
 ### Couverture géographique
 150+ pays sur les 5 continents
 
-## 🎮 Utilisation
+## Utilisation
 
 1. **Page d'accueil (carte)** : Explorez la répartition géographique d'un indicateur. Utilisez le panneau latéral pour changer d'indicateur, survolez les pays pour voir les valeurs, cliquez pour des détails.
 
