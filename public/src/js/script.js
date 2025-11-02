@@ -96,7 +96,7 @@ const countryToRegion = {
 
 
 // === Chargement du fichier JSON ===
-d3.json("../data_treatment/data/corruption.json").then(json => {
+d3.json("data_treatment/data/corruption.json").then(json => {
   if (!json || json.length === 0) {
     console.error(" Le fichier corruption.json est vide ou introuvable !");
     return;
